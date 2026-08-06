@@ -42,6 +42,28 @@ Tokens are counted on `anthropic/claude-sonnet-5` at its $3/MTok list rate.
 
 Every number above is recomputable from `runs/2026-08-06c/`, offline, without a key.
 
+## The providers
+
+Nothing here replaces going and looking for yourself. Every vendor measured, with its
+own site, its own documentation and its own pricing page:
+
+<!-- PROVIDERS -->
+| Provider | Arms measured here | |
+|---|---|---|
+| [Brave](https://brave.com) | `brave-search` | [docs](https://api-dashboard.search.brave.com/app/documentation/web-search/get-started) &middot; [pricing](https://brave.com/search/api/) |
+| [Exa](https://exa.ai) | `exa-search` | [docs](https://docs.exa.ai/reference/search) &middot; [pricing](https://exa.ai/docs/reference/pricing) |
+| [Firecrawl](https://firecrawl.dev) | `firecrawl-search` | [docs](https://docs.firecrawl.dev/api-reference/endpoint/search) &middot; [pricing](https://www.firecrawl.dev/pricing) |
+| [Linkup](https://linkup.so) | `linkup-standard` | [docs](https://docs.linkup.so/pages/documentation/endpoints/search/reference) &middot; [pricing](https://docs.linkup.so/pages/documentation/platform/pricing.md) |
+| [Parallel](https://parallel.ai) | `parallel-turbo`, `parallel-advanced`, `parallel-basic` | [docs](https://docs.parallel.ai/search/modes) &middot; [pricing](https://parallel.ai/pricing) |
+| [SERPdive](https://serpdive.com) | `serpdive-krill`, `serpdive-mako`, `serpdive-moby` | [docs](https://serpdive.com/docs) &middot; [pricing](https://serpdive.com/#pricing) |
+| [Tavily](https://tavily.com) | `tavily-basic`, `tavily-advanced` | [docs](https://docs.tavily.com/documentation/api-reference/endpoint/search) &middot; [pricing](https://docs.tavily.com/documentation/api-credits) |
+| [You.com](https://you.com) | `you-web` | [docs](https://you.com/docs/api-reference/search) &middot; [pricing](https://you.com/pricing) |
+<!-- /PROVIDERS -->
+
+The pricing links are the exact pages `pricing.json` was read from, so you can check any
+figure in the table against its source in one click. If one of them has moved since,
+that is a bug worth an issue.
+
 ## The answer key is rebuilt on the day of the run
 
 This is the part worth reading before the table.

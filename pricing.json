@@ -108,7 +108,7 @@
       "billing": "free_tier",
       "usd_per_1k_requests": 0,
       "note": "Costs 0 credits on every plan — it is the free tier, unlimited under fair use. Ranked separately from the paid arms for that reason; see METHOD.md.",
-      "source": "https://serpdive.com/pricing",
+      "source": "https://serpdive.com/#pricing",
       "checked": "2026-07-29"
     },
     "serpdive-mako": {
@@ -117,7 +117,7 @@
       "usd_per_1k_requests": 7,
       "note": "1 credit at the $0.007 list rate. A launch promotion runs at $0.005 until 2026-10-11 and is deliberately not used.",
       "free_tier": "1,000 credits/month",
-      "source": "https://serpdive.com/pricing",
+      "source": "https://serpdive.com/#pricing",
       "checked": "2026-07-29"
     },
     "serpdive-moby": {
@@ -126,7 +126,7 @@
       "usd_per_1k_requests": 10.5,
       "note": "1.5 credits at the $0.007 list rate.",
       "free_tier": "1,000 credits/month",
-      "source": "https://serpdive.com/pricing",
+      "source": "https://serpdive.com/#pricing",
       "checked": "2026-07-29"
     },
     "tavily-advanced": {

@@ -72,6 +72,31 @@ const md = () => {
   return `${head}\n${body.join('\n')}${notes.length ? `\n\n${notes.join('  \n')}` : ''}`;
 };
 
+/* --------------------------------------------------------- providers list ---- */
+
+// Generated from pricing.json and lib/providers.mjs rather than typed into the README,
+// so a vendor added as an arm cannot be missing from the list, and a link cannot rot
+// in one place while it is correct in the other.
+const providerList = async () => {
+  const { PROVIDERS } = await import(`${ROOT}lib/providers.mjs`);
+  const pricing = JSON.parse(readFileSync(`${ROOT}pricing.json`, 'utf8')).arms;
+  const byVendor = {};
+  for (const a of R.arms) {
+    const vendor = VENDOR[a.vendor] || a.vendor;
+    const v = (byVendor[vendor] ||= { vendor, arms: [], docs: null, pricing: null });
+    v.arms.push(a.arm);
+    v.docs ||= PROVIDERS[a.arm]?.docs || null;
+    v.pricing ||= pricing[a.arm]?.source || null;
+  }
+  const line = (v) => {
+    const site = DOMAIN[v.vendor] ? `[${v.vendor}](https://${DOMAIN[v.vendor]})` : v.vendor;
+    const links = [v.docs && `[docs](${v.docs})`, v.pricing && `[pricing](${v.pricing})`].filter(Boolean).join(' &middot; ');
+    return `| ${site} | ${v.arms.map((a) => `\`${a}\``).join(', ')} | ${links} |`;
+  };
+  return `| Provider | Arms measured here | |\n|---|---|---|\n${
+    Object.values(byVendor).sort((a, b) => a.vendor.localeCompare(b.vendor)).map(line).join('\n')}`;
+};
+
 /* --------------------------------------------------------------------- svg ---- */
 
 const THEMES = {
@@ -199,9 +224,10 @@ writeFileSync(`${ROOT}${RUNREL}/report.md`, `# ${RUNREL}\n\n${R.n} questions, ${
 const readme = `${ROOT}README.md`;
 if (existsSync(readme)) {
   const src = readFileSync(readme, 'utf8');
-  const out = src.replace(/<!-- RESULTS -->[\s\S]*?<!-- \/RESULTS -->/, `<!-- RESULTS -->\n${table}\n<!-- /RESULTS -->`);
-  if (out !== src) { writeFileSync(readme, out); console.log('README results table updated'); }
-  else console.log('README has no <!-- RESULTS --> markers; table not injected');
+  let out = src.replace(/<!-- RESULTS -->[\s\S]*?<!-- \/RESULTS -->/, `<!-- RESULTS -->\n${table}\n<!-- /RESULTS -->`);
+  out = out.replace(/<!-- PROVIDERS -->[\s\S]*?<!-- \/PROVIDERS -->/, `<!-- PROVIDERS -->\n${await providerList()}\n<!-- /PROVIDERS -->`);
+  if (out !== src) { writeFileSync(readme, out); console.log('README tables updated'); }
+  else console.log('README has no markers; nothing injected');
 }
 
 console.log(`docs/table-dark.svg, docs/table-light.svg, ${RUNREL}/report.md`);
