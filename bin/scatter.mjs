@@ -1,16 +1,14 @@
-// The cost/quality trade-off as a position rather than a ranking.
+// The cost/quality trade-off, plotted plainly.
 //
-// A table makes you read thirteen rows and hold them in your head. A scatter makes the
-// trade-off geometric: everything up and to the right is better, and where a provider
-// sits is a fact about the numbers, not a claim by whoever drew it.
+// A logo, its name beside it, and nothing else. Rings, leader lines and corner arrows
+// were all attempts to fix label collisions and they made the picture unreadable; the
+// collisions are fixed by making the marks small and the labels short instead.
 //
-// Two axis decisions, both stated on the chart itself because both change what you see.
-// Cost runs from $2.91 to $203.63, a seventyfold spread, so a linear axis would crush
-// eleven of the thirteen points against one edge: the scale is logarithmic and the
-// gridlines carry real dollar figures. And the cost axis is INVERTED, cheaper towards
-// the top, so that the desirable corner is the top right the way a reader expects.
+// Conventional axes: money along the bottom starting at zero, score up the side. The
+// cheap configurations bunch against the left edge and the expensive ones sprawl right,
+// which is not a defect of the scale, it is the shape of the market.
 //
-// Usage: node bin/scatter.mjs [--run=runs/<date>] [--theme=dark|light]
+// Usage: node bin/scatter.mjs [--run=runs/<date>]
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
@@ -31,127 +29,95 @@ const mark = (d) => {
   return existsSync(f) ? `data:image/png;base64,${readFileSync(f).toString('base64')}` : null;
 };
 
+const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic: 'Basic', advanced: 'Advanced', standard: 'Standard', search: '', web: '' };
 const pts = R.arms.filter((a) => a.total_usd_per_1k != null).map((a) => {
   const vendor = VENDOR[a.vendor] || a.vendor;
-  return { ...a, vendor, tier: a.arm.replace(/^[a-z]+-/, ''), domain: DOMAIN[vendor] || '', mine: a.vendor === 'serpdive' };
+  const t = TIER[a.arm.replace(/^[a-z]+-/, '')] ?? '';
+  return { ...a, label: t ? `${vendor} ${t}` : vendor, domain: DOMAIN[vendor] || '', mine: a.vendor === 'serpdive' };
 });
 
 const THEMES = {
-  dark: { ground: '#0b0f11', grid: '#18242a', axis: '#2a3b43', ink: '#e8f0f2', dim: '#8aa0a7', faint: '#55686e', mine: '#35d6a4', other: '#7d939b' },
-  light: { ground: '#ffffff', grid: '#eef3f4', axis: '#cfdadd', ink: '#0b1416', dim: '#5a6f76', faint: '#8a9ba1', mine: '#0f9b72', other: '#5a6f76' },
+  light: { ground: '#ffffff', grid: '#eceff0', axis: '#d3dadc', ink: '#111a1c', dim: '#6b7f86', faint: '#93a3a8', mine: '#0d9c76', other: '#93a3a8' },
+  dark: { ground: '#0b0f11', grid: '#171f23', axis: '#26333a', ink: '#eef4f5', dim: '#93a8af', faint: '#5e727a', mine: '#35d6a4', other: '#5e727a' },
 };
 
-const W = 1000, H = 1000;
-const L = 96, Rr = 30, T = 112, B = 126;                 // plot margins
+const W = 1000, H = 760;
+const L = 84, Rr = 26, T = 92, B = 96;
 const PW = W - L - Rr, PH = H - T - B;
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const tw = (s, size) => s.length * size * 0.6;
+const tw = (s, size) => s.length * size * 0.56;
 
-const COSTS = [3, 5, 10, 20, 50, 100, 200];
-const cLo = 2.6, cHi = 230;                              // a little air beyond the data
-const qLo = 75, qHi = 97;
-const px = (q) => L + ((q - qLo) / (qHi - qLo)) * PW;
-const py = (c) => T + ((Math.log(c) - Math.log(cLo)) / (Math.log(cHi) - Math.log(cLo))) * PH;
+const COSTS = [0, 25, 50, 75, 100, 125, 150, 175, 200];
+const SCORES = [70, 75, 80, 85, 90, 95, 100];
+const cLo = 0, cHi = 215, qLo = 70, qHi = 100;
+const px = (c) => L + ((c - cLo) / (cHi - cLo)) * PW;
+const py = (q) => T + (1 - (q - qLo) / (qHi - qLo)) * PH;
 
 const svg = (t) => {
   const o = [];
-  o.push(`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">`);
+  o.push(`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="ui-sans-serif, -apple-system, 'Helvetica Neue', Arial, sans-serif">`);
   o.push(`<rect width="${W}" height="${H}" fill="${t.ground}"/>`);
-  o.push(`<defs><clipPath id="sq"><rect width="34" height="34" rx="8"/></clipPath></defs>`);
+  o.push(`<defs><clipPath id="sq"><rect width="22" height="22" rx="5"/></clipPath></defs>`);
 
-  // title
-  o.push(`<text x="${L}" y="44" font-size="25" font-weight="700" fill="${t.ink}">What a thousand agent searches cost</text>`);
-  o.push(`<text x="${L}" y="68" font-size="13" fill="${t.dim}">${esc(`${R.n} questions, 13 priced configurations, ${R.date}.`)}</text>`);
-  o.push(`<text x="${L}" y="86" font-size="13" fill="${t.dim}">${esc('Cost is the request plus the tokens its payload pushes into the answering model.')}</text>`);
+  o.push(`<text x="${L}" y="40" font-size="22" font-weight="700" fill="${t.ink}">Cost of 1,000 agent searches</text>`);
+  o.push(`<text x="${L}" y="62" font-size="13" fill="${t.dim}">${esc(`${R.n} questions, ${R.date}. The request, plus the tokens its payload pushes into the answering model.`)}</text>`);
 
-  // grid
-  for (const c of COSTS) {
-    const y = py(c);
+  for (const q of SCORES) {
+    const y = py(q);
     o.push(`<line x1="${L}" y1="${y.toFixed(1)}" x2="${L + PW}" y2="${y.toFixed(1)}" stroke="${t.grid}"/>`);
-    o.push(`<text x="${L - 12}" y="${(y + 4).toFixed(1)}" font-size="13" fill="${t.faint}" text-anchor="end">$${c}</text>`);
+    o.push(`<text x="${L - 12}" y="${(y + 4).toFixed(1)}" font-size="12" fill="${t.faint}" text-anchor="end">${q}%</text>`);
   }
-  for (const q of [80, 85, 90, 95]) {
-    const x = px(q);
-    o.push(`<line x1="${x.toFixed(1)}" y1="${T}" x2="${x.toFixed(1)}" y2="${T + PH}" stroke="${t.grid}"/>`);
-    o.push(`<text x="${x.toFixed(1)}" y="${T + PH + 26}" font-size="13" fill="${t.faint}" text-anchor="middle">${q}%</text>`);
+  for (const c of COSTS) {
+    o.push(`<text x="${px(c).toFixed(1)}" y="${T + PH + 24}" font-size="12" fill="${t.faint}" text-anchor="middle">$${c}</text>`);
   }
   o.push(`<line x1="${L}" y1="${T + PH}" x2="${L + PW}" y2="${T + PH}" stroke="${t.axis}"/>`);
   o.push(`<line x1="${L}" y1="${T}" x2="${L}" y2="${T + PH}" stroke="${t.axis}"/>`);
+  o.push(`<text x="${L + PW / 2}" y="${T + PH + 52}" font-size="12.5" fill="${t.dim}" text-anchor="middle">cost per 1,000 queries</text>`);
+  o.push(`<text x="20" y="${T + PH / 2}" font-size="12.5" fill="${t.dim}" text-anchor="middle" transform="rotate(-90 20 ${T + PH / 2})">answers graded correct, out of 100</text>`);
 
-  // axis names
-  o.push(`<text x="${L + PW / 2}" y="${T + PH + 58}" font-size="13.5" fill="${t.dim}" text-anchor="middle">answers graded correct, out of ${R.n}</text>`);
-  o.push(`<text x="26" y="${T + PH / 2}" font-size="13.5" fill="${t.dim}" text-anchor="middle" transform="rotate(-90 26 ${T + PH / 2})">cost per 1,000 queries, log scale, cheaper is higher</text>`);
-
-  // the good corner, said once
-  o.push(`<text x="${L + PW}" y="${T - 14}" font-size="13" fill="${t.faint}" text-anchor="end">cheaper and more correct</text>`);
-  o.push(`<path d="M ${L + PW - 150} ${T - 32} L ${L + PW} ${T - 32}" stroke="${t.faint}" stroke-width="1" fill="none"/>`);
-  o.push(`<path d="M ${L + PW - 8} ${T - 36} L ${L + PW} ${T - 32} L ${L + PW - 8} ${T - 28} Z" fill="${t.faint}"/>`);
-
-  // points, cheapest first so the expensive ones cannot bury them
-  const placed = pts.map((p) => {
-    const x = px(p.correct_rate), y = py(p.total_usd_per_1k), r = p.mine ? 30 : 18;
-    return { x0: x - r, x1: x + r, y0: y - r, y1: y + r };
+  // A small mark and its name. Nothing else: the only freedom left is which side the
+  // name sits on and a few pixels of vertical give when two points are on top of
+  // each other.
+  // Every mark is an obstacle from the start. Adding them as we went meant a label
+  // could be placed on a logo that had not been drawn yet, which is how Mako's name
+  // ended up underneath Tavily's icon.
+  const taken = pts.map((p) => {
+    const x = px(p.total_usd_per_1k), y = py(p.correct_rate);
+    return { x0: x - 13, x1: x + 13, y0: y - 13, y1: y + 13 };
   });
-
   for (const p of [...pts].sort((a, b) => a.total_usd_per_1k - b.total_usd_per_1k)) {
-    const x = px(p.correct_rate), y = py(p.total_usd_per_1k);
-    const col = p.mine ? t.mine : t.other;
-    if (p.mine) o.push(`<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="28" fill="none" stroke="${t.mine}" stroke-width="2" opacity="0.6"/>`);
-    const src = mark(p.domain);
-    o.push(`<g transform="translate(${(x - 17).toFixed(1)} ${(y - 17).toFixed(1)})">`);
-    if (src) o.push(`<image width="34" height="34" clip-path="url(#sq)" href="${src}" xlink:href="${src}" preserveAspectRatio="xMidYMid meet"/>`);
-    else o.push(`<circle cx="17" cy="17" r="14" fill="${col}"/>`);
-    o.push('</g>');
-
-    // ONE LINE, not two. A two-line label is a tall box, and a tall box collides with
-    // everything, which pushed labels so far from their points that you could no longer
-    // tell which logo they belonged to.
-    const name = `${p.vendor} ${p.tier}`;
-    const price = `$${p.total_usd_per_1k.toFixed(2)}`;
-    const wName = tw(name, 15), wPrice = tw(price, 15), wide = wName + 10 + wPrice;
-    const gap = p.mine ? 34 : 24;
-    // Score every position that fits inside the plot and take the least bad, rather
-    // than the first that happens to work. First-fit had a fallback that ignored the
-    // frame, which is how three labels ended up running off the right edge.
-    const inward = x > L + PW / 2 ? [-1, 1] : [1, -1];
-    const cands = [];
-    for (const dy of [0, -26, 26, -50, 50, -74, 74]) {
+    const x = px(p.total_usd_per_1k), y = py(p.correct_rate);
+    const wide = tw(p.label, 14);
+    const inward = x > L + PW * 0.68 ? [-1, 1] : [1, -1];
+    let best = null;
+    for (const dy of [0, -16, 16, -30, 30, -44, 44]) {
       for (const side of inward) {
-        const ly = y + dy;
-        const x0 = side > 0 ? x + gap : x - gap - wide;
-        const b = { x0, x1: x0 + wide, y0: ly - 11, y1: ly + 7 };
-        if (b.x0 < L + 4 || b.x1 > L + PW - 4 || b.y0 < T + 4 || b.y1 > T + PH - 4) continue;
-        const clashes = placed.filter((q) => b.x0 < q.x1 + 7 && b.x1 + 7 > q.x0 && b.y0 < q.y1 + 3 && b.y1 + 3 > q.y0).length;
-        cands.push({ side, dy, ly, b, cost: clashes * 1000 + Math.abs(dy) + (side === inward[0] ? 0 : 6) });
+        const x0 = side > 0 ? x + 17 : x - 17 - wide;
+        const b = { x0, x1: x0 + wide, y0: y + dy - 9, y1: y + dy + 6 };
+        if (b.x0 < L + 3 || b.x1 > L + PW - 3) continue;
+        const clash = taken.some((q) => b.x0 < q.x1 + 6 && b.x1 + 6 > q.x0 && b.y0 < q.y1 + 2 && b.y1 + 2 > q.y0);
+        if (!clash) { best = { b, dy }; break; }
       }
+      if (best) break;
     }
-    cands.sort((a, b) => a.cost - b.cost);
-    const best = cands[0] || (() => {
-      const x0 = Math.min(Math.max(x + gap, L + 4), L + PW - 4 - wide);
-      return { side: 1, dy: 0, ly: y, b: { x0, x1: x0 + wide, y0: y - 11, y1: y + 7 } };
-    })();
-    placed.push(best.b);
+    if (!best) { const x0 = x + 17; best = { b: { x0, x1: x0 + wide, y0: y - 9, y1: y + 6 }, dy: 0 }; }
+    taken.push(best.b);
 
-    // a leader only when the label had to move off its point's line
-    if (Math.abs(best.dy) > 4) {
-      const ax = best.side > 0 ? best.b.x0 - 6 : best.b.x1 + 6;
-      o.push(`<path d="M ${(x + best.side * 19).toFixed(1)} ${y.toFixed(1)} L ${ax.toFixed(1)} ${best.ly.toFixed(1)}" stroke="${col}" stroke-width="1" opacity="0.45" fill="none"/>`);
-    }
-    o.push(`<text x="${best.b.x0.toFixed(1)}" y="${(best.ly + 5).toFixed(1)}" font-size="15" font-weight="${p.mine ? 700 : 500}" fill="${p.mine ? t.ink : t.dim}">${esc(name)}</text>`);
-    o.push(`<text x="${(best.b.x0 + wName + 10).toFixed(1)}" y="${(best.ly + 5).toFixed(1)}" font-size="15" font-weight="700" fill="${col}">${esc(price)}</text>`);
+    const src = mark(p.domain);
+    o.push(`<g transform="translate(${(x - 11).toFixed(1)} ${(y - 11).toFixed(1)})">`);
+    if (src) o.push(`<image width="22" height="22" clip-path="url(#sq)" href="${src}" xlink:href="${src}" preserveAspectRatio="xMidYMid meet"/>`);
+    else o.push(`<circle cx="11" cy="11" r="9" fill="${p.mine ? t.mine : t.other}"/>`);
+    o.push('</g>');
+    o.push(`<text x="${best.b.x0.toFixed(1)}" y="${(y + best.dy + 5).toFixed(1)}" font-size="14" font-weight="${p.mine ? 700 : 500}" fill="${p.mine ? t.mine : t.dim}">${esc(p.label)}</text>`);
   }
 
-  const fy = H - 40;
-  const notes = [
-    `Answer key established on the day of the run by 8 independent systems, one vote per provider.`,
-    `At n=${R.n} the horizontal axis carries about plus or minus 10 points. The vertical axis does not.`,
-  ];
-  notes.forEach((s, i) => o.push(`<text x="${L}" y="${fy + i * 18}" font-size="12" fill="${t.faint}">${esc(s)}</text>`));
+  o.push(`<text x="${L}" y="${H - 26}" font-size="11.5" fill="${t.faint}">${esc(`Answer key established on the day of the run by 8 independent systems, one vote per provider.`)}</text>`);
+  o.push(`<text x="${L}" y="${H - 10}" font-size="11.5" fill="${t.faint}">${esc(`At n=${R.n} the horizontal axis carries about plus or minus 10 points. The vertical axis does not.`)}</text>`);
   o.push('</svg>');
   return o.join('\n');
 };
 
 mkdirSync(`${ROOT}docs`, { recursive: true });
-writeFileSync(`${ROOT}docs/scatter-dark.svg`, `${svg(THEMES.dark)}\n`);
 writeFileSync(`${ROOT}docs/scatter-light.svg`, `${svg(THEMES.light)}\n`);
-console.log('docs/scatter-dark.svg, docs/scatter-light.svg');
+writeFileSync(`${ROOT}docs/scatter-dark.svg`, `${svg(THEMES.dark)}\n`);
+console.log('docs/scatter-light.svg, docs/scatter-dark.svg');
