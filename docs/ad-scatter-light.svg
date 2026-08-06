@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" font-family="ui-sans-serif, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<rect width="860" height="470" fill="#ffffff"/>
+<text x="62" y="36" font-size="20" font-weight="700" fill="#0c1517">What 1,000 agent searches really cost</text>
+<text x="62" y="57" font-size="12.5" fill="#4d6168">The request, plus the tokens its payload pushes into your model.</text>
+<line x1="62" y1="408.0" x2="830" y2="408.0" stroke="#edf1f2"/>
+<text x="52" y="412.0" font-size="11.5" fill="#8fa0a5" text-anchor="end">75</text>
+<line x1="62" y1="341.6" x2="830" y2="341.6" stroke="#edf1f2"/>
+<text x="52" y="345.6" font-size="11.5" fill="#8fa0a5" text-anchor="end">80</text>
+<line x1="62" y1="275.2" x2="830" y2="275.2" stroke="#edf1f2"/>
+<text x="52" y="279.2" font-size="11.5" fill="#8fa0a5" text-anchor="end">85</text>
+<line x1="62" y1="208.8" x2="830" y2="208.8" stroke="#edf1f2"/>
+<text x="52" y="212.8" font-size="11.5" fill="#8fa0a5" text-anchor="end">90</text>
+<line x1="62" y1="142.4" x2="830" y2="142.4" stroke="#edf1f2"/>
+<text x="52" y="146.4" font-size="11.5" fill="#8fa0a5" text-anchor="end">95</text>
+<line x1="62" y1="76.0" x2="830" y2="76.0" stroke="#edf1f2"/>
+<text x="52" y="80.0" font-size="11.5" fill="#8fa0a5" text-anchor="end">100</text>
+<text x="62.0" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$0</text>
+<text x="180.2" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$10</text>
+<text x="298.3" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$20</text>
+<text x="416.5" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$30</text>
+<text x="534.6" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$40</text>
+<text x="652.8" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$50</text>
+<text x="770.9" y="428" font-size="11.5" fill="#8fa0a5" text-anchor="middle">$60</text>
+<line x1="62" y1="408" x2="830" y2="408" stroke="#ccd6d9"/>
+<line x1="62" y1="76" x2="62" y2="408" stroke="#ccd6d9"/>
+<text x="446" y="452" font-size="12" fill="#4d6168" text-anchor="middle">cost per 1,000 queries</text>
+<text x="16" y="242" font-size="12" fill="#4d6168" text-anchor="middle" transform="rotate(-90 16 242)">answers correct (%)</text>
+<circle cx="96.4" cy="368.2" r="6" fill="#0aa87d" stroke="#ffffff" stroke-width="1.5"/>
+<text x="108.4" y="373.2" font-size="14" font-weight="700" fill="#0aa87d" text-anchor="start">SERPdive Krill</text>
+<circle cx="211.7" cy="235.4" r="6" fill="#0aa87d" stroke="#ffffff" stroke-width="1.5"/>
+<text x="223.7" y="240.4" font-size="14" font-weight="700" fill="#0aa87d" text-anchor="start">SERPdive Mako</text>
+<circle cx="221.1" cy="354.9" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="233.1" y="359.9" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Parallel Turbo</text>
+<circle cx="268.7" cy="235.4" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="280.7" y="240.4" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Tavily Basic</text>
+<circle cx="441.0" cy="142.4" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="453.0" y="147.4" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">You.com</text>
+<circle cx="693.5" cy="275.2" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="705.5" y="280.2" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Linkup Standard</text>
+<circle cx="721.0" cy="155.7" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="733.0" y="160.7" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Firecrawl</text>
+<text x="62" y="458" font-size="10.5" fill="#8fa0a5">100 questions, 2026-08-06. github.com/edendalexis/search-api-cost-benchmark</text>
+</svg>
