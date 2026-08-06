@@ -14,6 +14,9 @@ const arg = (n, d) => (process.argv.find((a) => a.startsWith(`--${n}=`)) || `--$
 const RUNREL = arg('run', `runs/${new Date().toISOString().slice(0, 10)}`);
 const SCATTER = process.argv.includes('--scatter');
 const ONLY = arg('only', '') ? arg('only', '').split(',') : null;
+// Ours, but at the expensive end: drawn like everyone else rather than picked out, so
+// the accent colour only ever lands on rows that carry the argument.
+const DIM = arg('dim', 'serpdive-moby').split(',').filter(Boolean);
 const R = JSON.parse(readFileSync(`${ROOT}${RUNREL}/results.json`, 'utf8'));
 
 const DOMAIN = { SERPdive: 'serpdive.com', Parallel: 'parallel.ai', Tavily: 'tavily.com', 'You.com': 'you.com', Firecrawl: 'firecrawl.dev', Linkup: 'linkup.so', Brave: 'brave.com', Exa: 'exa.ai' };
@@ -24,7 +27,7 @@ const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic
 const all = R.arms.filter((a) => a.total_usd_per_1k != null).map((a) => {
   const vendor = VENDOR[a.vendor] || a.vendor;
   const t = TIER[a.arm.replace(/^[a-z]+-/, '')] ?? '';
-  return { ...a, label: t ? `${vendor} ${t}` : vendor, domain: DOMAIN[vendor] || '', mine: a.vendor === 'serpdive' };
+  return { ...a, label: t ? `${vendor} ${t}` : vendor, domain: DOMAIN[vendor] || '', mine: a.vendor === 'serpdive' && !DIM.includes(a.arm) };
 });
 const pts = (ONLY ? ONLY.map((n) => all.find((a) => a.arm === n)).filter(Boolean) : all)
   .sort((a, b) => a.total_usd_per_1k - b.total_usd_per_1k);
