@@ -299,7 +299,10 @@ const svg = (t) => {
     );
     if (src)
       o.push(
-        `<image width="26" height="26" clip-path="url(#sq)" xlink:href="${src}" preserveAspectRatio="xMidYMid meet"/>`,
+        // BOTH spellings, deliberately. xlink:href is deprecated and Safari no longer
+        // follows it, so a chart written with it alone loses every logo outside Chrome.
+        // Plain href is the modern attribute; xlink stays for older renderers.
+        `<image width="26" height="26" clip-path="url(#sq)" href="${src}" xlink:href="${src}" preserveAspectRatio="xMidYMid meet"/>`,
       );
     else
       o.push(
