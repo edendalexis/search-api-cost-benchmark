@@ -1,0 +1,24 @@
+{
+ "built": "2026-08-06",
+ "reader": "openai/gpt-5.6-luna",
+ "arbiter": "openai/gpt-5.6-luna-pro",
+ "voters": [
+  "brave-search",
+  "exa-search",
+  "firecrawl-search",
+  "linkup-standard",
+  "parallel-advanced",
+  "serpdive-moby",
+  "tavily-advanced",
+  "you-web"
+ ],
+ "read_but_not_voting": [
+  "parallel-basic",
+  "parallel-turbo",
+  "serpdive-krill",
+  "serpdive-mako",
+  "tavily-basic"
+ ],
+ "rule": "one voice per provider, its most advanced configuration; every arm is read and scored, only the electorate is capped",
+ "note": "This file was reconstructed after the run, which did not yet record its electorate. The list is not asserted, it is derived: for each of the 100 questions the arbiter recorded how many systems answered, and this set of eight reproduces that count on 99 of 100 rows, while the full thirteen reproduces it on none. bin/gold.mjs now writes this file itself."
+}

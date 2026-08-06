@@ -1,0 +1,1702 @@
+{
+ "126": {
+  "said": {
+   "serpdive-krill": "There are 10 University of California schools in the United States.",
+   "parallel-advanced": "10 UC schools.",
+   "tavily-advanced": "There are 10 University of California schools in the United States.",
+   "parallel-basic": "There are 10 University of California schools in the United States.",
+   "exa-search": "Ten UC campuses exist in the United States.",
+   "firecrawl-search": "There are 10 University of California schools.",
+   "serpdive-moby": "There are 10 University of California schools.",
+   "serpdive-mako": "There are 10 University of California schools in the United States.",
+   "tavily-basic": "There are 10 University of California schools in the United States.",
+   "you-web": "There are 10 University of California schools in the United States.",
+   "parallel-turbo": "There are 10 UC schools in the United States.",
+   "brave-search": "There are 10 UC schools in the United States.",
+   "linkup-standard": "There are 10 UC schools in the United States."
+  }
+ },
+ "129": {
+  "said": {
+   "parallel-basic": "On-site parking costs $10 for cars and trucks; motorcycles cost $5.",
+   "parallel-turbo": "Parking costs $10 per car; motorcycles cost $5 at Gate 9.",
+   "firecrawl-search": "Parking costs $10 per car or truck at Gate 9; motorcycles cost $5.",
+   "you-web": "On-site parking costs $10; motorcycles cost $5 at Gate 9.",
+   "linkup-standard": "Parking costs $10 per car; motorcycles are $5 at Gate 9.",
+   "parallel-advanced": "Parking costs $10 per car; motorcycles cost $5.",
+   "serpdive-moby": "On-site parking costs $10 for cars and trucks; motorcycles cost $5.",
+   "tavily-advanced": "On-site parking costs $10 per car; motorcycles cost $5.",
+   "serpdive-krill": "Parking costs $10 for cars and trucks, or $5 for motorcycles.",
+   "serpdive-mako": "Parking costs $10 per car, $5 per motorcycle, at Gate 9.",
+   "exa-search": "$10 per car; $5 for motorcycles.",
+   "brave-search": "Parking costs $10 for cars and $5 for motorcycles at Gate 9.",
+   "tavily-basic": "Parking costs $10 for cars and trucks; motorcycles cost $5, cash only."
+  }
+ },
+ "130": {
+  "said": {
+   "serpdive-mako": "Princeton University",
+   "serpdive-moby": "Princeton University",
+   "firecrawl-search": "Harvard University",
+   "brave-search": "Princeton University",
+   "parallel-turbo": "Princeton University",
+   "serpdive-krill": "Princeton University",
+   "parallel-advanced": "Princeton University",
+   "exa-search": "Princeton University",
+   "tavily-advanced": "Princeton University",
+   "you-web": "Princeton University",
+   "linkup-standard": "Princeton University",
+   "tavily-basic": "Harvard University",
+   "parallel-basic": "Princeton University"
+  }
+ },
+ "132": {
+  "said": {
+   "parallel-turbo": "Rafael Nadal has won 22 Grand Slam titles.",
+   "parallel-advanced": "Rafael Nadal has won 22 Grand Slam titles.",
+   "serpdive-moby": "Rafael Nadal has won 22 Grand Slam titles.",
+   "serpdive-mako": "Rafael Nadal has won 22 Grand Slam titles.",
+   "serpdive-krill": "Rafael Nadal has won 22 Grand Slam titles.",
+   "tavily-advanced": "22 Grand Slam titles.",
+   "parallel-basic": "Rafael Nadal has won 22 Grand Slam singles titles.",
+   "brave-search": "Rafael Nadal has won 22 Grand Slam titles.",
+   "you-web": "Rafael Nadal has won 22 Grand Slam titles.",
+   "tavily-basic": "Rafael Nadal has won 22 Grand Slam singles titles.",
+   "firecrawl-search": "Rafael Nadal has won 22 Grand Slam singles titles.",
+   "linkup-standard": "Rafael Nadal has won 22 Grand Slam titles.",
+   "exa-search": "Rafael Nadal has won 22 Grand Slam singles titles."
+  }
+ },
+ "133": {
+  "said": {
+   "tavily-basic": "Friedrich Merz",
+   "parallel-basic": "Friedrich Merz",
+   "firecrawl-search": "Friedrich Merz",
+   "parallel-turbo": "Friedrich Merz",
+   "tavily-advanced": "Friedrich Merz",
+   "you-web": "Friedrich Merz",
+   "linkup-standard": "Friedrich Merz",
+   "brave-search": "Friedrich Merz",
+   "serpdive-moby": "Friedrich Merz",
+   "serpdive-mako": "Friedrich Merz",
+   "serpdive-krill": "Friedrich Merz",
+   "exa-search": "Friedrich Merz",
+   "parallel-advanced": "Friedrich Merz"
+  }
+ },
+ "134": {
+  "said": {
+   "brave-search": "Mario is the best-selling video game franchise of all time.",
+   "parallel-basic": "Mario is the best-selling video game franchise of all time.",
+   "parallel-advanced": "Mario",
+   "serpdive-krill": "Mario is the best-selling video game franchise of all time.",
+   "firecrawl-search": "Mario is the best-selling video game franchise of all time.",
+   "serpdive-moby": "Mario franchise",
+   "serpdive-mako": "Mario is the best-selling video game franchise of all time.",
+   "exa-search": "Mario is the best-selling video game franchise of all time.",
+   "tavily-advanced": "Mario is the best-selling video game franchise of all time.",
+   "you-web": "Mario is the best-selling video game franchise of all time.",
+   "linkup-standard": "Mario franchise",
+   "parallel-turbo": "Mario is the best-selling video game franchise of all time.",
+   "tavily-basic": "Mario is the best-selling video game franchise of all time."
+  }
+ },
+ "136": {
+  "said": {
+   "firecrawl-search": "There are eight English translations of *Les Misérables*.",
+   "brave-search": "Eight English translations.",
+   "serpdive-krill": "RIEN",
+   "parallel-basic": "Eight English translations.",
+   "tavily-basic": "There are eight English translations of *Les Misérables*.",
+   "exa-search": "Five complete English translations.",
+   "tavily-advanced": "Eight English translations.",
+   "linkup-standard": "Eight English translations.",
+   "parallel-turbo": "RIEN",
+   "parallel-advanced": "Eight English translations.",
+   "you-web": "Eight English translations.",
+   "serpdive-moby": "Eight English translations.",
+   "serpdive-mako": "Six English translations are listed."
+  }
+ },
+ "142": {
+  "said": {
+   "tavily-basic": "Mokhtar Dahari, with 89 international goals.",
+   "you-web": "Mokhtar Dahari",
+   "serpdive-moby": "Mokhtar Dahari holds Malaysia’s international scoring record, with 89 goals.",
+   "tavily-advanced": "Mokhtar Dahari, with 89 international goals.",
+   "brave-search": "Mokhtar Dahari holds Malaysia’s international goalscoring record, with 89 goals.",
+   "parallel-advanced": "Mokhtar Dahari, with 89 international goals.",
+   "parallel-basic": "Mokhtar Dahari holds Malaysia’s international scoring record with 89 goals.",
+   "linkup-standard": "Mokhtar Dahari, with 89 international goals.",
+   "parallel-turbo": "Mokhtar Dahari, with 89 international goals.",
+   "exa-search": "Mohamed Mokhtar Dahari holds Malaysia’s international scoring record with 89 goals.",
+   "serpdive-krill": "RIEN",
+   "firecrawl-search": "Mokhtar Dahari (89 goals)",
+   "serpdive-mako": "Mokhtar Dahari"
+  }
+ },
+ "143": {
+  "said": {
+   "parallel-turbo": "There are six games in the Ace Attorney main series.",
+   "parallel-advanced": "Six main Ace Attorney games.",
+   "parallel-basic": "There are six games in the Ace Attorney main series.",
+   "tavily-advanced": "There are six games in the Ace Attorney main series.",
+   "serpdive-moby": "Six main series games.",
+   "tavily-basic": "There are six games in the Ace Attorney main series.",
+   "exa-search": "Six games.",
+   "firecrawl-search": "Six main-series games.",
+   "you-web": "There are six games in the Ace Attorney main series.",
+   "brave-search": "Six games.",
+   "linkup-standard": "There are six games in the Ace Attorney main series.",
+   "serpdive-krill": "There are six games in the Ace Attorney main series.",
+   "serpdive-mako": "RIEN"
+  }
+ },
+ "145": {
+  "said": {
+   "tavily-basic": "49 matches",
+   "tavily-advanced": "49 matches",
+   "you-web": "49 matches",
+   "firecrawl-search": "49 matches",
+   "serpdive-moby": "49 matches",
+   "brave-search": "49 matches",
+   "serpdive-mako": "49 matches",
+   "parallel-basic": "49 matches",
+   "exa-search": "49 matches",
+   "parallel-advanced": "49 matches",
+   "serpdive-krill": "49 matches",
+   "linkup-standard": "49 matches",
+   "parallel-turbo": "49 matches"
+  }
+ },
+ "146": {
+  "said": {
+   "serpdive-mako": "Hindi",
+   "linkup-standard": "Hindi",
+   "tavily-basic": "Hindi",
+   "parallel-basic": "Hindi",
+   "you-web": "Hindi",
+   "exa-search": "Hindi",
+   "parallel-advanced": "Hindi",
+   "parallel-turbo": "RIEN",
+   "serpdive-krill": "RIEN",
+   "firecrawl-search": "Hindi",
+   "brave-search": "Hindi",
+   "serpdive-moby": "Hindi",
+   "tavily-advanced": "Hindi"
+  }
+ },
+ "147": {
+  "said": {
+   "you-web": "Dangal",
+   "firecrawl-search": "Dangal",
+   "parallel-basic": "Dangal",
+   "parallel-turbo": "Dangal",
+   "tavily-advanced": "Dangal",
+   "exa-search": "Dangal",
+   "linkup-standard": "Dangal",
+   "parallel-advanced": "Dangal",
+   "brave-search": "Dangal",
+   "serpdive-krill": "Dangal",
+   "serpdive-mako": "Dangal",
+   "tavily-basic": "Dangal",
+   "serpdive-moby": "Dangal"
+  }
+ },
+ "149": {
+  "said": {
+   "brave-search": "Lisa from BLACKPINK",
+   "parallel-basic": "Lisa from BLACKPINK",
+   "serpdive-krill": "Lisa",
+   "linkup-standard": "Lisa (BLACKPINK)",
+   "parallel-advanced": "Lisa (BLACKPINK)",
+   "serpdive-mako": "Lisa from BLACKPINK.",
+   "exa-search": "Lisa (BLACKPINK)",
+   "parallel-turbo": "Lisa (BLACKPINK)",
+   "tavily-advanced": "Lisa (BLACKPINK)",
+   "tavily-basic": "Lisa of BLACKPINK.",
+   "you-web": "Lisa of BLACKPINK.",
+   "serpdive-moby": "Lisa from BLACKPINK.",
+   "firecrawl-search": "Lisa from BLACKPINK"
+  }
+ },
+ "155": {
+  "said": {
+   "firecrawl-search": "Bulgaria",
+   "serpdive-krill": "Bulgaria",
+   "parallel-advanced": "Bulgaria",
+   "serpdive-mako": "Bulgaria",
+   "parallel-basic": "Bulgaria",
+   "brave-search": "Bulgaria",
+   "serpdive-moby": "Bulgaria",
+   "parallel-turbo": "Bulgaria",
+   "tavily-advanced": "Bulgaria",
+   "you-web": "Bulgaria",
+   "exa-search": "Bulgaria",
+   "tavily-basic": "Bulgaria",
+   "linkup-standard": "Bulgaria"
+  }
+ },
+ "156": {
+  "said": {
+   "tavily-advanced": "Five vehicle models.",
+   "exa-search": "Tesla offers three vehicle models: Model 3, Model Y, and Cybertruck.",
+   "parallel-basic": "RIEN",
+   "brave-search": "Five vehicle models.",
+   "tavily-basic": "Tesla offers five vehicle models.",
+   "parallel-advanced": "RIEN",
+   "firecrawl-search": "Tesla offers five vehicle models.",
+   "serpdive-krill": "Tesla offers five vehicle models: Model S, 3, X, Y, and Cybertruck.",
+   "you-web": "Tesla offers five vehicle models.",
+   "parallel-turbo": "Tesla offers five vehicle models.",
+   "linkup-standard": "Tesla offers four vehicle models.",
+   "serpdive-mako": "Tesla offers five vehicle models.",
+   "serpdive-moby": "Tesla offers five vehicle models."
+  }
+ },
+ "157": {
+  "said": {
+   "exa-search": "Colleen Hoover has published 26 books.",
+   "firecrawl-search": "Colleen Hoover has published 26 books.",
+   "serpdive-krill": "Colleen Hoover has published 26 books.",
+   "you-web": "Colleen Hoover has published 26 books.",
+   "serpdive-mako": "Colleen Hoover has published 26 books.",
+   "parallel-turbo": "Colleen Hoover has published 26 books.",
+   "serpdive-moby": "RIEN",
+   "linkup-standard": "RIEN",
+   "parallel-advanced": "RIEN",
+   "tavily-basic": "Colleen Hoover has published 26 books.",
+   "parallel-basic": "Colleen Hoover has published more than 24 books.",
+   "brave-search": "26 books",
+   "tavily-advanced": "Colleen Hoover has published 26 books."
+  }
+ },
+ "158": {
+  "said": {
+   "exa-search": "Hurry Up Tomorrow",
+   "linkup-standard": "Hurry Up Tomorrow",
+   "parallel-advanced": "Hurry Up Tomorrow",
+   "brave-search": "Hurry Up Tomorrow",
+   "parallel-turbo": "Hurry Up Tomorrow",
+   "serpdive-krill": "Hurry Up Tomorrow",
+   "tavily-advanced": "Hurry Up Tomorrow",
+   "firecrawl-search": "Hurry Up Tomorrow",
+   "serpdive-moby": "Hurry Up Tomorrow",
+   "parallel-basic": "Hurry Up Tomorrow",
+   "tavily-basic": "Hurry Up Tomorrow",
+   "serpdive-mako": "Hurry Up Tomorrow",
+   "you-web": "Hurry Up Tomorrow"
+  }
+ },
+ "159": {
+  "said": {
+   "parallel-advanced": "14 children",
+   "tavily-basic": "14 children",
+   "you-web": "Elon Musk has 14 children, including his deceased child.",
+   "firecrawl-search": "Elon Musk has 14 children, including his deceased son Nevada.",
+   "exa-search": "14 children",
+   "linkup-standard": "14 children",
+   "tavily-advanced": "14 children",
+   "serpdive-moby": "14 children",
+   "serpdive-mako": "14 children, including his deceased son.",
+   "parallel-basic": "Elon Musk has 14 children, including his deceased child.",
+   "brave-search": "Elon Musk has 14 children, including his deceased child.",
+   "serpdive-krill": "Elon Musk has 14 children, including his deceased child.",
+   "parallel-turbo": "14 children"
+  }
+ },
+ "162": {
+  "said": {
+   "tavily-basic": "110 stations",
+   "parallel-basic": "115 stations",
+   "tavily-advanced": "115 stations",
+   "brave-search": "Los Angeles Metro Rail has 110 stations.",
+   "parallel-advanced": "RIEN",
+   "serpdive-mako": "110 stations",
+   "you-web": "RIEN",
+   "exa-search": "115 stations",
+   "firecrawl-search": "RIEN",
+   "serpdive-moby": "LA Metro has 115 rail stations.",
+   "parallel-turbo": "There are 115 LA Metro rail stations.",
+   "serpdive-krill": "There are 115 LA Metro rail stations.",
+   "linkup-standard": "LA Metro has 115 rail stations."
+  }
+ },
+ "165": {
+  "said": {
+   "exa-search": "Narendra Modi Stadium, Ahmedabad, India—with a capacity of 132,000.",
+   "brave-search": "Narendra Modi Stadium in Ahmedabad, India, with a capacity of 132,000.",
+   "tavily-basic": "Narendra Modi Stadium in Ahmedabad, India, with a capacity of 132,000 seats.",
+   "firecrawl-search": "RIEN",
+   "parallel-turbo": "Rungrado 1st of May Stadium, with a capacity of 150,000.",
+   "you-web": "RIEN",
+   "serpdive-moby": "RIEN",
+   "serpdive-krill": "RIEN",
+   "serpdive-mako": "Narendra Modi Stadium in Ahmedabad, India, with a capacity of 132,000.",
+   "linkup-standard": "RIEN",
+   "tavily-advanced": "RIEN",
+   "parallel-basic": "RIEN",
+   "parallel-advanced": "Narendra Modi Stadium in Ahmedabad, India, with a capacity of 114,600."
+  }
+ },
+ "167": {
+  "said": {
+   "parallel-turbo": "Sanae Takaichi",
+   "exa-search": "Sanae Takaichi",
+   "parallel-basic": "Sanae Takaichi",
+   "you-web": "Sanae Takaichi",
+   "brave-search": "Sanae Takaichi",
+   "linkup-standard": "Sanae Takaichi",
+   "parallel-advanced": "Sanae Takaichi",
+   "tavily-basic": "Sanae Takaichi",
+   "serpdive-mako": "Sanae Takaichi",
+   "serpdive-moby": "Sanae Takaichi",
+   "tavily-advanced": "Sanae Takaichi",
+   "serpdive-krill": "Sanae Takaichi",
+   "firecrawl-search": "Sanae Takaichi"
+  }
+ },
+ "168": {
+  "said": {
+   "linkup-standard": "Kantara",
+   "parallel-advanced": "Kantara",
+   "serpdive-mako": "Kantara: Chapter 1",
+   "tavily-advanced": "Kantara",
+   "serpdive-krill": "Kantara",
+   "brave-search": "Kantara",
+   "firecrawl-search": "Kantara: Chapter 1",
+   "parallel-turbo": "Kantara: A Legend – Chapter 1",
+   "you-web": "Kantara (2022)",
+   "serpdive-moby": "Kantara: A Legend – Chapter 1",
+   "tavily-basic": "KGF Chapter 2",
+   "exa-search": "Kantara: A Legend – Chapter 1",
+   "parallel-basic": "Kantara"
+  }
+ },
+ "169": {
+  "said": {
+   "brave-search": "Luke Littler",
+   "parallel-basic": "Luke Littler",
+   "you-web": "Luke Littler",
+   "exa-search": "Luke Littler",
+   "tavily-advanced": "Luke Littler",
+   "parallel-turbo": "Luke Littler",
+   "linkup-standard": "Luke Littler",
+   "serpdive-mako": "Luke Littler",
+   "serpdive-krill": "Luke Littler",
+   "serpdive-moby": "Luke Littler",
+   "tavily-basic": "Luke Littler",
+   "firecrawl-search": "Luke Littler",
+   "parallel-advanced": "Luke Littler"
+  }
+ },
+ "172": {
+  "said": {
+   "serpdive-moby": "No. The continental U.S. will see only a partial eclipse this year.",
+   "tavily-basic": "No. The next continental U.S. total solar eclipse occurs in 2044.",
+   "linkup-standard": "No, only a partial eclipse is visible in the continental US this year.",
+   "tavily-advanced": "No. The next continental U.S. total solar eclipse occurs August 23, 2044.",
+   "exa-search": "No, only a partial eclipse is visible in the continental US this year.",
+   "serpdive-krill": "No; North America will see only a partial solar eclipse this year.",
+   "parallel-advanced": "No, only a partial eclipse is visible in the continental United States this year.",
+   "brave-search": "No; the next contiguous U.S. total solar eclipse is in 2044.",
+   "parallel-basic": "No; the continental U.S. sees only a partial eclipse this year.",
+   "parallel-turbo": "Yes—on April 8, 2024, a total solar eclipse crossed the continental United States.",
+   "you-web": "No; this year’s eclipse in the continental U.S. is partial, not total.",
+   "serpdive-mako": "No; the continental US has no total solar eclipse this year.",
+   "firecrawl-search": "No; the next continental U.S. total solar eclipse is in 2044."
+  }
+ },
+ "173": {
+  "said": {
+   "serpdive-mako": "Donald Trump",
+   "tavily-basic": "Donald Trump",
+   "tavily-advanced": "Donald Trump",
+   "parallel-turbo": "Donald Trump",
+   "brave-search": "Donald John Trump",
+   "firecrawl-search": "Donald J. Trump",
+   "you-web": "Donald J. Trump",
+   "serpdive-moby": "Donald Trump",
+   "linkup-standard": "Donald J. Trump",
+   "serpdive-krill": "Donald Trump",
+   "parallel-basic": "Donald J. Trump",
+   "exa-search": "Donald J. Trump",
+   "parallel-advanced": "Donald Trump"
+  }
+ },
+ "174": {
+  "said": {
+   "serpdive-mako": ".NET 10",
+   "serpdive-krill": ".NET 10",
+   "firecrawl-search": ".NET 10 is the latest major version.",
+   "exa-search": ".NET 10.",
+   "parallel-advanced": ".NET 11.0",
+   "linkup-standard": ".NET 10 is the latest major version.",
+   "tavily-advanced": "The latest major version is .NET 10.",
+   "parallel-basic": ".NET 10 is the latest major version.",
+   "serpdive-moby": ".NET 10.",
+   "tavily-basic": ".NET 10",
+   "you-web": "The latest major version of .NET is .NET 10.",
+   "brave-search": ".NET 10",
+   "parallel-turbo": ".NET 10 is the latest major version."
+  }
+ },
+ "177": {
+  "said": {
+   "parallel-basic": "Morphotrophic",
+   "linkup-standard": "Morphotrophic",
+   "brave-search": "Morphotrophic",
+   "parallel-turbo": "Morphotrophic",
+   "serpdive-krill": "Morphotrophic, published in 2024.",
+   "tavily-advanced": "Morphotrophic",
+   "you-web": "Morphotrophic",
+   "exa-search": "Morphotrophic",
+   "tavily-basic": "Morphotrophic.",
+   "serpdive-mako": "Morphotrophic (2024)",
+   "parallel-advanced": "Morphotrophic",
+   "serpdive-moby": "The Book of All Skies",
+   "firecrawl-search": "Morphotrophic (2024)"
+  }
+ },
+ "179": {
+  "said": {
+   "serpdive-mako": "Keir Starmer",
+   "tavily-basic": "Keir Starmer",
+   "exa-search": "Keir Starmer",
+   "serpdive-moby": "Keir Starmer",
+   "parallel-turbo": "Keir Starmer",
+   "parallel-advanced": "Keir Starmer",
+   "parallel-basic": "Keir Starmer",
+   "firecrawl-search": "RIEN",
+   "brave-search": "Keir Starmer",
+   "linkup-standard": "Keir Starmer",
+   "you-web": "Keir Starmer",
+   "tavily-advanced": "Keir Starmer",
+   "serpdive-krill": "Keir Starmer"
+  }
+ },
+ "180": {
+  "said": {
+   "tavily-basic": "Cristiano Ronaldo",
+   "serpdive-krill": "Cristiano Ronaldo",
+   "tavily-advanced": "Cristiano Ronaldo",
+   "exa-search": "Cristiano Ronaldo",
+   "brave-search": "Cristiano Ronaldo",
+   "parallel-turbo": "Cristiano Ronaldo",
+   "serpdive-moby": "Cristiano Ronaldo",
+   "you-web": "Cristiano Ronaldo",
+   "serpdive-mako": "Cristiano Ronaldo",
+   "parallel-basic": "Cristiano Ronaldo",
+   "firecrawl-search": "Cristiano Ronaldo",
+   "linkup-standard": "Cristiano Ronaldo",
+   "parallel-advanced": "Cristiano Ronaldo"
+  }
+ },
+ "181": {
+  "said": {
+   "serpdive-moby": "Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda",
+   "parallel-turbo": "The Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda.",
+   "tavily-advanced": "The 2026 Bundibugyo virus Ebola outbreak in the DRC and Uganda.",
+   "exa-search": "Ebola disease caused by Bundibugyo virus in the DRC and Uganda.",
+   "parallel-advanced": "Bundibugyo ebolavirus outbreak in the Democratic Republic of Congo and Uganda.",
+   "firecrawl-search": "The Ebola outbreak caused by Bundibugyo virus in the DRC and Uganda.",
+   "brave-search": "The Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda.",
+   "you-web": "The Bundibugyo Ebola outbreak in the DRC and Uganda.",
+   "tavily-basic": "The 2026 Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda.",
+   "linkup-standard": "The Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda.",
+   "serpdive-mako": "The Ebola outbreak caused by Bundibugyo virus in DRC and Uganda.",
+   "parallel-basic": "The Ebola outbreak in the Democratic Republic of the Congo and Uganda.",
+   "serpdive-krill": "The Ebola outbreak in the Democratic Republic of Congo and Uganda."
+  }
+ },
+ "182": {
+  "said": {
+   "serpdive-mako": "$130 annually.",
+   "parallel-advanced": "$130 per year.",
+   "parallel-turbo": "Costco Executive membership costs $130 annually.",
+   "exa-search": "$130 annually.",
+   "firecrawl-search": "$130 annually, plus applicable sales tax.",
+   "tavily-basic": "Costco Executive membership costs $130 annually.",
+   "serpdive-krill": "$130 per year.",
+   "serpdive-moby": "$130 per year.",
+   "brave-search": "Costco Executive membership costs $130 annually.",
+   "parallel-basic": "$130 per year.",
+   "linkup-standard": "$130 annually.",
+   "you-web": "Costco Executive membership costs $130 annually.",
+   "tavily-advanced": "$130 annually."
+  }
+ },
+ "184": {
+  "said": {
+   "tavily-advanced": "November 22, 2024",
+   "parallel-advanced": "November 22, 2024",
+   "brave-search": "November 22, 2024",
+   "firecrawl-search": "November 22, 2024",
+   "serpdive-moby": "November 22, 2024",
+   "parallel-basic": "November 22, 2024",
+   "exa-search": "November 22, 2024",
+   "linkup-standard": "November 22, 2024",
+   "serpdive-krill": "November 22, 2024.",
+   "you-web": "November 22, 2024",
+   "serpdive-mako": "November 22, 2024",
+   "parallel-turbo": "November 22, 2024",
+   "tavily-basic": "November 22, 2024"
+  }
+ },
+ "185": {
+  "said": {
+   "parallel-advanced": "Paris, France",
+   "you-web": "Paris, France, in 2024.",
+   "linkup-standard": "Paris, France, in 2024.",
+   "parallel-basic": "Paris, France",
+   "serpdive-moby": "Paris, France, in 2024.",
+   "tavily-advanced": "Paris, France",
+   "tavily-basic": "Paris, France.",
+   "firecrawl-search": "Paris, France.",
+   "serpdive-mako": "Paris, France.",
+   "parallel-turbo": "Paris, France.",
+   "serpdive-krill": "RIEN",
+   "exa-search": "Paris, France.",
+   "brave-search": "Paris, France, in 2024."
+  }
+ },
+ "187": {
+  "said": {
+   "linkup-standard": "2028.",
+   "firecrawl-search": "The next leap year is 2028.",
+   "serpdive-moby": "The next leap year is 2028.",
+   "parallel-basic": "2028, with leap day on February 29.",
+   "exa-search": "The next leap year is 2028.",
+   "tavily-advanced": "2028, with Leap Day on Tuesday, February 29.",
+   "parallel-turbo": "2028, with February 29.",
+   "parallel-advanced": "2028",
+   "you-web": "2028.",
+   "serpdive-krill": "2028",
+   "brave-search": "2028, with Leap Day on February 29.",
+   "serpdive-mako": "2028",
+   "tavily-basic": "2028"
+  }
+ },
+ "188": {
+  "said": {
+   "serpdive-krill": "December 2023",
+   "serpdive-mako": "Mark Cuban sold the Mavericks in December 2023.",
+   "tavily-advanced": "December 2023.",
+   "tavily-basic": "December 2023.",
+   "linkup-standard": "December 27, 2023.",
+   "brave-search": "December 27, 2023.",
+   "you-web": "December 2023.",
+   "firecrawl-search": "December 2023.",
+   "exa-search": "December 27, 2023.",
+   "parallel-advanced": "December 27, 2023.",
+   "parallel-basic": "December 2023.",
+   "serpdive-moby": "December 2023.",
+   "parallel-turbo": "Late 2023; the sale was announced November 28, 2023."
+  }
+ },
+ "190": {
+  "said": {
+   "tavily-basic": "Elon Musk",
+   "parallel-advanced": "Elon Musk",
+   "brave-search": "Elon Musk",
+   "serpdive-mako": "Elon Musk",
+   "serpdive-moby": "Elon Musk.",
+   "parallel-basic": "Elon Musk",
+   "serpdive-krill": "Elon Musk.",
+   "you-web": "Elon Musk",
+   "parallel-turbo": "Elon Musk",
+   "linkup-standard": "Elon Musk",
+   "exa-search": "Elon Musk",
+   "tavily-advanced": "Elon Musk",
+   "firecrawl-search": "Elon Musk"
+  }
+ },
+ "193": {
+  "said": {
+   "firecrawl-search": "Jerrold Nadler",
+   "parallel-turbo": "Jerrold Nadler",
+   "you-web": "Jerry Nadler",
+   "brave-search": "Jerrold “Jerry” Nadler",
+   "serpdive-mako": "Jerry Nadler",
+   "tavily-advanced": "Jerrold Nadler (Democrat)",
+   "serpdive-krill": "Jerrold Nadler (Democrat)",
+   "tavily-basic": "Jerrold Nadler",
+   "parallel-advanced": "Jerrold Nadler",
+   "exa-search": "Jerrold Nadler",
+   "serpdive-moby": "Jerry Nadler",
+   "parallel-basic": "Jerrold Nadler",
+   "linkup-standard": "Jerrold “Jerry” Nadler"
+  }
+ },
+ "196": {
+  "said": {
+   "tavily-advanced": "United States",
+   "serpdive-mako": "United States (USA)",
+   "you-web": "United States",
+   "firecrawl-search": "United States",
+   "exa-search": "United States",
+   "tavily-basic": "United States",
+   "brave-search": "United States",
+   "linkup-standard": "USA",
+   "serpdive-moby": "United States",
+   "parallel-basic": "United States",
+   "parallel-turbo": "United States (USA)",
+   "serpdive-krill": "United States of America",
+   "parallel-advanced": "United States"
+  }
+ },
+ "198": {
+  "said": {
+   "tavily-basic": "Sayf al-Adl is regarded as al-Qaeda’s de facto leader.",
+   "brave-search": "Saif al-Adel is al-Qaeda’s de facto leader.",
+   "parallel-turbo": "Saif al-Adel",
+   "parallel-basic": "Saif al-Adel is al-Qaeda’s current de facto leader.",
+   "serpdive-moby": "Saif al-Adl",
+   "you-web": "Saif al-Adel is al-Qaeda’s de facto leader.",
+   "exa-search": "Saif al-`Adl is al-Qaeda’s de facto leader.",
+   "linkup-standard": "Saif al-Adel (Sayf al-Adl) is al-Qaeda’s de facto leader.",
+   "serpdive-mako": "Saif al-Adel (acting emir)",
+   "firecrawl-search": "Saif al-Adel (de facto)",
+   "serpdive-krill": "RIEN",
+   "tavily-advanced": "Sayf al-Adl is al-Qaeda’s de facto and uncontested leader.",
+   "parallel-advanced": "Sayf al-Adl (the de facto leader)"
+  }
+ },
+ "199": {
+  "said": {
+   "tavily-basic": "490 passes",
+   "serpdive-mako": "490 passes",
+   "parallel-basic": "490 passes",
+   "linkup-standard": "490 passes",
+   "exa-search": "490 passes",
+   "parallel-advanced": "490 passes",
+   "brave-search": "490 passes",
+   "serpdive-krill": "490 passes",
+   "firecrawl-search": "490 passes",
+   "tavily-advanced": "490 passes",
+   "serpdive-moby": "490 passes",
+   "parallel-turbo": "490 passes",
+   "you-web": "490 passes"
+  }
+ },
+ "200": {
+  "said": {
+   "serpdive-mako": "Japan",
+   "parallel-turbo": "Japan",
+   "linkup-standard": "Japan won the latest World Pastry Cup.",
+   "firecrawl-search": "Japan",
+   "you-web": "Japan won the latest World Pastry Cup.",
+   "tavily-advanced": "Japan",
+   "parallel-advanced": "Japan",
+   "tavily-basic": "Japan won the latest World Pastry Cup.",
+   "parallel-basic": "Japan",
+   "exa-search": "Japan",
+   "brave-search": "Japan won the latest World Pastry Cup.",
+   "serpdive-krill": "RIEN",
+   "serpdive-moby": "Japan"
+  }
+ },
+ "202": {
+  "said": {
+   "tavily-basic": "Two World Series titles.",
+   "tavily-advanced": "The Houston Astros have won two World Series titles.",
+   "serpdive-krill": "The Houston Astros have won two World Series titles.",
+   "firecrawl-search": "Two World Series titles.",
+   "linkup-standard": "Two titles.",
+   "serpdive-moby": "The Houston Astros have won two World Series titles.",
+   "parallel-advanced": "The Houston Astros have won two World Series titles.",
+   "parallel-turbo": "The Houston Astros have won two World Series titles.",
+   "parallel-basic": "Two World Series titles.",
+   "you-web": "Two World Series titles.",
+   "brave-search": "Two World Series titles.",
+   "serpdive-mako": "The Houston Astros have won two World Series titles.",
+   "exa-search": "The Houston Astros have won two World Series titles."
+  }
+ },
+ "203": {
+  "said": {
+   "parallel-basic": "Keiko Fujimori",
+   "exa-search": "Keiko Fujimori",
+   "brave-search": "Keiko Fujimori",
+   "serpdive-mako": "Keiko Fujimori",
+   "tavily-basic": "Keiko Fujimori",
+   "serpdive-moby": "Keiko Fujimori.",
+   "parallel-advanced": "Keiko Fujimori",
+   "parallel-turbo": "Keiko Fujimori",
+   "firecrawl-search": "Keiko Fujimori",
+   "linkup-standard": "Keiko Fujimori",
+   "tavily-advanced": "Keiko Fujimori",
+   "serpdive-krill": "Keiko Fujimori.",
+   "you-web": "Keiko Fujimori."
+  }
+ },
+ "204": {
+  "said": {
+   "firecrawl-search": "Russia",
+   "brave-search": "Russia has been invading Ukraine.",
+   "linkup-standard": "Russia",
+   "serpdive-krill": "Russia",
+   "tavily-advanced": "Russia",
+   "you-web": "Russia",
+   "exa-search": "Russia has been invading Ukraine.",
+   "tavily-basic": "Russia",
+   "serpdive-moby": "Russia",
+   "parallel-basic": "Russia",
+   "serpdive-mako": "Russia",
+   "parallel-advanced": "Russia",
+   "parallel-turbo": "Russia"
+  }
+ },
+ "209": {
+  "said": {
+   "brave-search": "New Zealand has won six Women's Rugby World Cup titles.",
+   "serpdive-krill": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "parallel-turbo": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "tavily-basic": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "you-web": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "firecrawl-search": "New Zealand has won six Women's Rugby World Cup titles.",
+   "parallel-advanced": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "parallel-basic": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "serpdive-mako": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "linkup-standard": "New Zealand has won six Women’s Rugby World Cup titles.",
+   "serpdive-moby": "New Zealand has won six Women's Rugby World Cup titles.",
+   "tavily-advanced": "New Zealand has won six Women's Rugby World Cup titles.",
+   "exa-search": "Six titles."
+  }
+ },
+ "210": {
+  "said": {
+   "serpdive-mako": "Researchers have identified a total of 893 Nazca geoglyphs.",
+   "firecrawl-search": "893 Nazca geoglyphs have been identified.",
+   "brave-search": "893 Nazca geoglyphs have been identified so far.",
+   "tavily-basic": "893 Nazca geoglyphs.",
+   "tavily-advanced": "893 Nazca geoglyphs.",
+   "you-web": "893 total Nazca geoglyphs.",
+   "exa-search": "893 geoglyphs",
+   "parallel-basic": "893 Nazca geoglyphs have been discovered so far.",
+   "serpdive-krill": "893 Nazca geoglyphs have been discovered.",
+   "parallel-turbo": "893 Nazca geoglyphs.",
+   "parallel-advanced": "733 geoglyphs.",
+   "serpdive-moby": "893 Nazca geoglyphs.",
+   "linkup-standard": "893 Nazca geoglyphs."
+  }
+ },
+ "211": {
+  "said": {
+   "brave-search": "Marvel Super-Heroes Secret Wars #8, page 25, sold for $3.36 million.",
+   "serpdive-moby": "Page 25 of *Marvel Super-Heroes Secret Wars #8*, sold for $3.36 million.",
+   "tavily-basic": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million.",
+   "you-web": "Marvel Super-Heroes Secret Wars #8, page 25, sold for $3.36 million.",
+   "parallel-basic": "Marvel Super-Heroes Secret Wars #8, page 25—sold for $3.36 million.",
+   "firecrawl-search": "Marvel Super-Heroes Secret Wars #8, page 25—sold for $3.36 million.",
+   "tavily-advanced": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million.",
+   "parallel-advanced": "Marvel Super-Heroes Secret Wars #8, page 25—Spider-Man’s black suit origin, sold for $3.36 million.",
+   "serpdive-krill": "RIEN",
+   "serpdive-mako": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3,360,000.",
+   "linkup-standard": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3,360,000.",
+   "exa-search": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million.",
+   "parallel-turbo": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million."
+  }
+ },
+ "224": {
+  "said": {
+   "linkup-standard": "The United Kingdom.",
+   "firecrawl-search": "United Kingdom and Belgium, tied at two visits each.",
+   "exa-search": "The United Kingdom.",
+   "serpdive-mako": "The United Kingdom and Belgium, tied at two visits each.",
+   "parallel-turbo": "The United Kingdom.",
+   "serpdive-moby": "United Kingdom",
+   "you-web": "The United Kingdom and Belgium, tied at two visits each.",
+   "tavily-advanced": "The United Kingdom",
+   "parallel-advanced": "United Kingdom",
+   "tavily-basic": "The United Kingdom",
+   "serpdive-krill": "RIEN",
+   "brave-search": "The United Kingdom.",
+   "parallel-basic": "United Kingdom"
+  }
+ },
+ "227": {
+  "said": {
+   "brave-search": "Three American companies have exceeded a $4 trillion market capitalization.",
+   "you-web": "Three: Nvidia, Microsoft, and Apple.",
+   "serpdive-moby": "Four companies.",
+   "parallel-turbo": "Three.",
+   "parallel-basic": "Three companies.",
+   "parallel-advanced": "Four publicly traded American companies.",
+   "serpdive-mako": "Four publicly traded American companies.",
+   "serpdive-krill": "Four publicly traded American companies.",
+   "linkup-standard": "Four publicly traded American companies.",
+   "exa-search": "Four publicly traded American companies.",
+   "firecrawl-search": "Four publicly traded American companies.",
+   "tavily-advanced": "Four companies.",
+   "tavily-basic": "Three companies."
+  }
+ },
+ "228": {
+  "said": {
+   "you-web": "Six presidents.",
+   "exa-search": "Six presidents.",
+   "firecrawl-search": "Six presidents.",
+   "parallel-basic": "Six presidents.",
+   "parallel-turbo": "Six presidents.",
+   "brave-search": "Six presidents.",
+   "serpdive-krill": "RIEN",
+   "parallel-advanced": "Six presidents.",
+   "serpdive-moby": "Four presidents.",
+   "linkup-standard": "Peru has had six presidents in the last five years.",
+   "tavily-basic": "RIEN",
+   "serpdive-mako": "RIEN",
+   "tavily-advanced": "Five presidents."
+  }
+ },
+ "229": {
+  "said": {
+   "you-web": "Two successful launches.",
+   "exa-search": "Two flights.",
+   "serpdive-moby": "Two flights.",
+   "brave-search": "Two flights.",
+   "parallel-advanced": "Two flights.",
+   "parallel-turbo": "Two successful launches.",
+   "tavily-basic": "One flight.",
+   "serpdive-krill": "Two successful launches.",
+   "firecrawl-search": "2 flights",
+   "tavily-advanced": "Two flights.",
+   "serpdive-mako": "Two successful launches.",
+   "linkup-standard": "Two successful launches.",
+   "parallel-basic": "Two flights."
+  }
+ },
+ "230": {
+  "said": {
+   "serpdive-krill": "RIEN",
+   "linkup-standard": "Three declarations.",
+   "brave-search": "Three declarations.",
+   "parallel-turbo": "Three declarations.",
+   "tavily-advanced": "Three.",
+   "firecrawl-search": "Three declarations: COVID-19 in 2020 and mpox in 2022 and 2024.",
+   "parallel-advanced": "Three declarations: COVID-19 (2020), mpox (2022), and mpox (2024).",
+   "you-web": "Three.",
+   "parallel-basic": "Two declarations.",
+   "tavily-basic": "Three.",
+   "exa-search": "Three declarations: COVID-19 and two mpox outbreaks.",
+   "serpdive-mako": "RIEN",
+   "serpdive-moby": "RIEN"
+  }
+ },
+ "232": {
+  "said": {
+   "brave-search": "0 federal crimes",
+   "parallel-turbo": "RIEN",
+   "firecrawl-search": "None—his convictions were state-level, not federal.",
+   "serpdive-mako": "None; he was convicted of 34 state felonies, not federal crimes.",
+   "parallel-basic": "Zero federal crimes.",
+   "tavily-basic": "None; his 34 convictions were New York state crimes, not federal offenses.",
+   "exa-search": "None.",
+   "linkup-standard": "None; his 34 convictions were state crimes, not federal offenses.",
+   "parallel-advanced": "Zero federal crimes.",
+   "serpdive-krill": "Zero federal crimes; he was convicted of 34 New York state felonies.",
+   "you-web": "Zero federal crimes.",
+   "serpdive-moby": "None; his 34 convictions were state crimes, not federal offenses.",
+   "tavily-advanced": "Zero; his 34 convictions were state crimes, while federal cases were dismissed."
+  }
+ },
+ "235": {
+  "said": {
+   "exa-search": "Yes. Elon Musk is CEO of both Tesla and X Corp.",
+   "serpdive-mako": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO was Linda Yaccarino.",
+   "tavily-basic": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO is Linda Yaccarino.",
+   "parallel-advanced": "No. Elon Musk leads Tesla, while Linda Yaccarino was CEO of X Corp.",
+   "brave-search": "No. Elon Musk leads Tesla, while Linda Yaccarino leads X Corp.",
+   "parallel-turbo": "RIEN",
+   "serpdive-krill": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO is Linda Yaccarino.",
+   "tavily-advanced": "RIEN",
+   "parallel-basic": "RIEN",
+   "serpdive-moby": "No—Tesla’s CEO is Elon Musk; X Corp.’s was Linda Yaccarino.",
+   "firecrawl-search": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO is Linda Yaccarino.",
+   "you-web": "No; Elon Musk is Tesla’s CEO, while Linda Yaccarino is X Corp.’s.",
+   "linkup-standard": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO was Linda Yaccarino."
+  }
+ },
+ "236": {
+  "said": {
+   "serpdive-mako": "Shreveport, Louisiana",
+   "parallel-advanced": "Shreveport, Louisiana",
+   "parallel-basic": "Shreveport, Louisiana",
+   "exa-search": "Shreveport, Louisiana",
+   "tavily-advanced": "Shreveport, Louisiana.",
+   "linkup-standard": "RIEN",
+   "parallel-turbo": "RIEN",
+   "you-web": "Shreveport",
+   "tavily-basic": "Shreveport, Louisiana.",
+   "firecrawl-search": "Shreveport, Louisiana",
+   "brave-search": "Shreveport, Louisiana",
+   "serpdive-krill": "RIEN",
+   "serpdive-moby": "Shreveport, Louisiana"
+  }
+ },
+ "238": {
+  "said": {
+   "tavily-basic": "Once, in 2023.",
+   "exa-search": "Once.",
+   "parallel-advanced": "Once.",
+   "tavily-advanced": "Once.",
+   "parallel-basic": "Once.",
+   "brave-search": "Once.",
+   "linkup-standard": "Once.",
+   "firecrawl-search": "Once.",
+   "serpdive-moby": "Once.",
+   "serpdive-mako": "Once — the 2023 Pokémon World Championships were held in Japan.",
+   "serpdive-krill": "RIEN",
+   "parallel-turbo": "RIEN",
+   "you-web": "Once"
+  }
+ },
+ "239": {
+  "said": {
+   "linkup-standard": "Lionel Messi has the most-liked Instagram post.",
+   "tavily-basic": "Lionel Messi.",
+   "parallel-advanced": "Lionel Messi",
+   "brave-search": "Lionel Messi has the most-liked Instagram post.",
+   "you-web": "Lionel Messi holds the most-liked Instagram post.",
+   "firecrawl-search": "Lionel Messi has the most-liked Instagram post.",
+   "exa-search": "Lionel Messi",
+   "parallel-turbo": "Lionel Messi has the most liked post on Instagram.",
+   "serpdive-moby": "Lionel Messi has the most-liked post on Instagram.",
+   "serpdive-mako": "RIEN",
+   "parallel-basic": "Lionel Messi has the most liked post on Instagram.",
+   "tavily-advanced": "Lionel Messi.",
+   "serpdive-krill": "Lionel Messi has the most-liked post on Instagram."
+  }
+ },
+ "240": {
+  "said": {
+   "tavily-advanced": "November 27, 2022.",
+   "tavily-basic": "November 27, 2022.",
+   "firecrawl-search": "November–December 2022.",
+   "parallel-basic": "November 2022",
+   "linkup-standard": "November–December 2022.",
+   "exa-search": "November–December 2022.",
+   "parallel-advanced": "November 28, 2022.",
+   "you-web": "November–December 2022.",
+   "serpdive-moby": "November 27–December 13, 2022.",
+   "parallel-turbo": "November 27, 2022.",
+   "brave-search": "November 27–December 13, 2022",
+   "serpdive-mako": "Mauna Loa’s most recent eruption occurred in 2022.",
+   "serpdive-krill": "Late 2022."
+  }
+ },
+ "241": {
+  "said": {
+   "serpdive-krill": "RIEN",
+   "tavily-basic": "1",
+   "parallel-advanced": "1",
+   "parallel-turbo": "One active player: Novak Djokovic.",
+   "brave-search": "1",
+   "serpdive-moby": "One",
+   "serpdive-mako": "One active player.",
+   "parallel-basic": "1",
+   "linkup-standard": "1 player",
+   "you-web": "One active player.",
+   "tavily-advanced": "1",
+   "exa-search": "One",
+   "firecrawl-search": "1"
+  }
+ },
+ "242": {
+  "said": {
+   "linkup-standard": "James Cameron",
+   "serpdive-moby": "James Cameron.",
+   "serpdive-mako": "James Cameron",
+   "serpdive-krill": "RIEN",
+   "parallel-basic": "James Cameron",
+   "firecrawl-search": "James Cameron",
+   "you-web": "James Cameron",
+   "exa-search": "James Cameron",
+   "brave-search": "James Cameron",
+   "tavily-advanced": "James Cameron directed the most films among the top 15 highest-grossing films.",
+   "tavily-basic": "James Cameron directed the most films among the top 15 highest-grossing films.",
+   "parallel-turbo": "James Cameron.",
+   "parallel-advanced": "James Cameron"
+  }
+ },
+ "243": {
+  "said": {
+   "parallel-advanced": "Larry Gagosian.",
+   "parallel-turbo": "Larry Gagosian",
+   "tavily-advanced": "RIEN",
+   "serpdive-mako": "Larry Gagosian.",
+   "brave-search": "Larry Gagosian",
+   "serpdive-moby": "RIEN",
+   "parallel-basic": "RIEN",
+   "firecrawl-search": "Art dealer Larry Gagosian bought it.",
+   "you-web": "Larry Gagosian",
+   "linkup-standard": "Larry Gagosian, on behalf of an unnamed buyer.",
+   "exa-search": "RIEN",
+   "tavily-basic": "Larry Gagosian.",
+   "serpdive-krill": "Larry Gagosian"
+  }
+ },
+ "394": {
+  "said": {
+   "you-web": "The Seattle Seahawks won the most recent Super Bowl.",
+   "tavily-basic": "Philadelphia Eagles won the most recent Super Bowl.",
+   "serpdive-mako": "Seattle Seahawks (Super Bowl LX, 29–13 over the New England Patriots)",
+   "serpdive-moby": "The Seattle Seahawks won Super Bowl LX, defeating the New England Patriots 29–13.",
+   "brave-search": "The Seattle Seahawks won the most recent Super Bowl.",
+   "parallel-advanced": "Seattle Seahawks",
+   "parallel-basic": "The Seattle Seahawks won the most recent Super Bowl.",
+   "parallel-turbo": "The Seattle Seahawks won the most recent Super Bowl.",
+   "exa-search": "The Seattle Seahawks won Super Bowl LX.",
+   "tavily-advanced": "The Seattle Seahawks won the most recent Super Bowl.",
+   "firecrawl-search": "Seattle Seahawks won Super Bowl LX.",
+   "linkup-standard": "Seattle Seahawks",
+   "serpdive-krill": "The Seattle Seahawks won the most recent Super Bowl."
+  }
+ },
+ "395": {
+  "said": {
+   "you-web": "Sydney, Atlanta, and Paris.",
+   "parallel-basic": "Sydney, Atlanta, and Paris.",
+   "exa-search": "Sydney, Australia, with satellite events in Atlanta and Paris.",
+   "serpdive-krill": "Sydney, Australia.",
+   "brave-search": "Sydney, Atlanta, and Paris.",
+   "serpdive-moby": "Sydney, Australia, with satellite locations in Atlanta, USA and Paris, France.",
+   "linkup-standard": "Sydney, Australia, with official satellite events in Atlanta and Paris.",
+   "tavily-advanced": "Sydney, Australia; satellite events are in Atlanta and Paris.",
+   "serpdive-mako": "Sydney, Atlanta, and Paris.",
+   "firecrawl-search": "Sydney, Australia, with satellite meetings in Paris and Atlanta.",
+   "tavily-basic": "Sydney, with satellite events in Atlanta and Paris.",
+   "parallel-advanced": "Sydney, Australia; satellite conferences in Atlanta and Paris.",
+   "parallel-turbo": "San Diego and Mexico City."
+  }
+ },
+ "396": {
+  "said": {
+   "linkup-standard": "April 10–12 and April 17–19, 2026.",
+   "you-web": "April 10–12 and April 17–19, 2026.",
+   "serpdive-moby": "April 10–12 and April 17–19, 2026.",
+   "serpdive-krill": "April 10–12 and April 17–19, 2026.",
+   "parallel-basic": "April 10–19, 2026",
+   "parallel-turbo": "April 11–13 and April 18–20, 2025.",
+   "parallel-advanced": "RIEN",
+   "brave-search": "April 10–12 and April 17–19, 2026",
+   "tavily-advanced": "April 10–12 and April 17–19, 2026",
+   "firecrawl-search": "April 9–11 and April 16–18, 2027.",
+   "tavily-basic": "April 10–12 and April 17–19, 2026.",
+   "exa-search": "April 10–12 and April 17–19, 2026.",
+   "serpdive-mako": "April 10–12 and April 17–19, 2026."
+  }
+ },
+ "398": {
+  "said": {
+   "brave-search": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "serpdive-mako": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "you-web": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "parallel-turbo": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "tavily-advanced": "Passover began on Saturday, April 12, 2025.",
+   "serpdive-moby": "Passover started at sundown on April 1, 2026.",
+   "exa-search": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "parallel-advanced": "Passover started before sundown on Wednesday, April 1, 2026.",
+   "parallel-basic": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "serpdive-krill": "Passover started at sundown on Wednesday, April 1, 2026.",
+   "tavily-basic": "Passover started at sundown Wednesday, April 1, 2026.",
+   "firecrawl-search": "Passover started at sundown Wednesday, April 1, 2026.",
+   "linkup-standard": "Passover started at sundown on April 1, 2026."
+  }
+ },
+ "399": {
+  "said": {
+   "serpdive-krill": "Aryna Sabalenka and Amanda Anisimova",
+   "parallel-turbo": "Aryna Sabalenka and Jessica Pegula.",
+   "tavily-advanced": "Aryna Sabalenka and Amanda Anisimova",
+   "firecrawl-search": "Aryna Sabalenka and Amanda Anisimova",
+   "tavily-basic": "Aryna Sabalenka and Jessica Pegula.",
+   "you-web": "Aryna Sabalenka and Amanda Anisimova.",
+   "serpdive-mako": "Aryna Sabalenka and Amanda Anisimova.",
+   "linkup-standard": "Aryna Sabalenka and Amanda Anisimova",
+   "serpdive-moby": "Aryna Sabalenka and Amanda Anisimova.",
+   "parallel-basic": "Aryna Sabalenka and Amanda Anisimova.",
+   "exa-search": "Aryna Sabalenka and Amanda Anisimova",
+   "parallel-advanced": "Aryna Sabalenka and Jessica Pegula.",
+   "brave-search": "Aryna Sabalenka and Amanda Anisimova."
+  }
+ },
+ "402": {
+  "said": {
+   "tavily-advanced": "Sunday, June 21, 2026.",
+   "you-web": "Sunday, June 21, 2026.",
+   "brave-search": "June 21, 2026",
+   "firecrawl-search": "Father’s Day is Sunday, June 21, 2026.",
+   "serpdive-mako": "Father’s Day in the United States is June 21, 2026.",
+   "parallel-turbo": "June 21, 2026",
+   "parallel-basic": "Father’s Day in the United States is Sunday, June 21, 2026.",
+   "serpdive-moby": "Sunday, June 21, 2026.",
+   "linkup-standard": "Sunday, June 21, 2026.",
+   "exa-search": "Sunday, June 21, 2026",
+   "tavily-basic": "Father’s Day is Sunday, June 21, 2026.",
+   "serpdive-krill": "Sunday, June 21, 2026.",
+   "parallel-advanced": "Sunday, June 21, 2026."
+  }
+ },
+ "403": {
+  "said": {
+   "firecrawl-search": "Budapest, Hungary.",
+   "serpdive-krill": "Budapest, Hungary.",
+   "serpdive-moby": "Budapest, Hungary.",
+   "exa-search": "Budapest, Hungary.",
+   "parallel-basic": "Suzhou, China.",
+   "linkup-standard": "Budapest, Hungary.",
+   "tavily-basic": "Budapest, Hungary.",
+   "serpdive-mako": "Suzhou, China.",
+   "tavily-advanced": "EMNLP 2025 is in Suzhou, China.",
+   "parallel-turbo": "Budapest, Hungary.",
+   "you-web": "Budapest, Hungary.",
+   "brave-search": "Suzhou, China.",
+   "parallel-advanced": "Budapest, Hungary."
+  }
+ },
+ "404": {
+  "said": {
+   "tavily-basic": "NBC",
+   "serpdive-mako": "NBC",
+   "linkup-standard": "NBC",
+   "parallel-advanced": "NBC",
+   "parallel-basic": "NBC",
+   "brave-search": "NBC",
+   "serpdive-krill": "NBC was this year’s Super Bowl broadcaster.",
+   "parallel-turbo": "NBC",
+   "exa-search": "NBC",
+   "you-web": "NBC",
+   "tavily-advanced": "NBC",
+   "serpdive-moby": "NBC",
+   "firecrawl-search": "NBC"
+  }
+ },
+ "406": {
+  "said": {
+   "exa-search": "2976",
+   "serpdive-krill": "The present Gregorian year 2026 corresponds to Berber year 2976.",
+   "parallel-advanced": "The present year corresponds to Berber year 2976.",
+   "brave-search": "2975",
+   "parallel-turbo": "The present year, 2026, corresponds to Berber year 2976.",
+   "tavily-basic": "The present year, 2025, corresponds to Berber year 2975.",
+   "parallel-basic": "The present year corresponds to Berber year 2975.",
+   "tavily-advanced": "The present year corresponds to Berber year 2976.",
+   "serpdive-mako": "The present year, 2026, corresponds to Berber year 2976.",
+   "serpdive-moby": "2026 corresponds to Berber year 2976.",
+   "linkup-standard": "2976",
+   "you-web": "2976",
+   "firecrawl-search": "2976"
+  }
+ },
+ "407": {
+  "said": {
+   "exa-search": "Ramadan began February 18, 2026, with some countries beginning February 19.",
+   "parallel-basic": "Ramadan was February 17 to March 18, 2026, subject to moon sighting.",
+   "parallel-advanced": "RIEN",
+   "serpdive-moby": "Ramadan was observed from February 17 to March 18, 2026.",
+   "firecrawl-search": "Ramadan was from the evening of February 17 through March 18, 2026.",
+   "linkup-standard": "RIEN",
+   "serpdive-mako": "Ramadan 2026 began February 17 and ended around March 18–19.",
+   "brave-search": "Ramadan was February 17–March 18, 2026, with dates varying by moon sighting.",
+   "serpdive-krill": "Ramadan was from the evening of February 17 to March 19, 2026.",
+   "parallel-turbo": "Ramadan was February 18–March 19, 2026; India began observing it February 19.",
+   "tavily-basic": "Ramadan was observed from March 10 to April 9, 2024.",
+   "you-web": "Ramadan was February 17–March 18, 2026, with local variations by moon sighting.",
+   "tavily-advanced": "February 17–March 18, 2026; some reports extend Ramadan through March 19."
+  }
+ },
+ "408": {
+  "said": {
+   "tavily-advanced": "Thanksgiving is Thursday, November 26, 2026.",
+   "exa-search": "Thursday, November 27, 2025",
+   "parallel-turbo": "Thursday, November 26, 2026",
+   "serpdive-mako": "Thanksgiving is Thursday, November 26, 2026.",
+   "you-web": "Thanksgiving is Thursday, November 26, 2026.",
+   "linkup-standard": "Thursday, November 26, 2026.",
+   "serpdive-moby": "Thursday, November 26, 2026.",
+   "brave-search": "Thursday, November 26, 2026",
+   "serpdive-krill": "Thanksgiving is Thursday, November 26, 2026.",
+   "firecrawl-search": "Thursday, November 26, 2026",
+   "parallel-basic": "Thursday, November 26, 2026.",
+   "tavily-basic": "Thursday, November 27, 2025.",
+   "parallel-advanced": "Thursday, November 26, 2026"
+  }
+ },
+ "409": {
+  "said": {
+   "you-web": "Monday, September 7, 2026.",
+   "parallel-advanced": "Monday, September 7, 2026.",
+   "brave-search": "Monday, September 7, 2026.",
+   "exa-search": "Monday, September 7, 2026",
+   "tavily-basic": "September 7, 2026.",
+   "serpdive-moby": "Monday, September 7, 2026.",
+   "tavily-advanced": "September 7, 2026",
+   "firecrawl-search": "Labor Day is September 7, 2026.",
+   "serpdive-mako": "Monday, September 7, 2026.",
+   "parallel-basic": "Monday, September 7, 2026",
+   "serpdive-krill": "Monday, September 7, 2026",
+   "parallel-turbo": "Monday, September 7, 2026.",
+   "linkup-standard": "Monday, September 7, 2026"
+  }
+ },
+ "410": {
+  "said": {
+   "parallel-advanced": "Levi’s Stadium in Santa Clara, California.",
+   "brave-search": "Levi’s Stadium",
+   "exa-search": "Levi's Stadium in Santa Clara, California.",
+   "firecrawl-search": "Levi's Stadium in Santa Clara, California.",
+   "linkup-standard": "Levi’s Stadium in Santa Clara, California.",
+   "parallel-turbo": "Allegiant Stadium, Las Vegas",
+   "you-web": "Levi’s Stadium in Santa Clara, California.",
+   "serpdive-krill": "Levi's Stadium in Santa Clara, California.",
+   "tavily-advanced": "RIEN",
+   "serpdive-moby": "Levi’s Stadium in Santa Clara, California.",
+   "tavily-basic": "Levi’s Stadium in Santa Clara, California.",
+   "parallel-basic": "Levi’s Stadium in Santa Clara, California.",
+   "serpdive-mako": "Levi’s Stadium in Santa Clara, California."
+  }
+ },
+ "412": {
+  "said": {
+   "parallel-turbo": "KPop Demon Hunters",
+   "exa-search": "KPop Demon Hunters",
+   "serpdive-krill": "KPop Demon Hunters",
+   "brave-search": "KPop Demon Hunters",
+   "serpdive-mako": "KPop Demon Hunters",
+   "serpdive-moby": "KPop Demon Hunters",
+   "tavily-basic": "KPop Demon Hunters won the latest Academy Award for Best Animated Feature.",
+   "firecrawl-search": "KPop Demon Hunters",
+   "parallel-basic": "KPop Demon Hunters won the latest Academy Award for Best Animated Feature.",
+   "tavily-advanced": "KPop Demon Hunters (2025)",
+   "linkup-standard": "KPop Demon Hunters",
+   "you-web": "KPop Demon Hunters",
+   "parallel-advanced": "KPop Demon Hunters"
+  }
+ },
+ "413": {
+  "said": {
+   "linkup-standard": "One Battle After Another",
+   "exa-search": "One Battle After Another",
+   "firecrawl-search": "One Battle After Another",
+   "parallel-turbo": "One Battle After Another",
+   "serpdive-mako": "One Battle After Another.",
+   "tavily-basic": "One Battle After Another",
+   "brave-search": "One Battle After Another",
+   "you-web": "One Battle After Another",
+   "parallel-basic": "One Battle After Another",
+   "tavily-advanced": "One Battle After Another",
+   "serpdive-krill": "One Battle After Another",
+   "serpdive-moby": "One Battle After Another",
+   "parallel-advanced": "One Battle After Another"
+  }
+ },
+ "415": {
+  "said": {
+   "brave-search": "Never Flinch",
+   "you-web": "Never Flinch",
+   "firecrawl-search": "Never Flinch",
+   "linkup-standard": "Never Flinch",
+   "serpdive-krill": "Never Flinch",
+   "tavily-advanced": "Never Flinch",
+   "tavily-basic": "Other Worlds Than These",
+   "serpdive-moby": "Never Flinch",
+   "parallel-turbo": "Never Flinch",
+   "exa-search": "Other Worlds Than These",
+   "parallel-advanced": "Never Flinch",
+   "serpdive-mako": "Other Worlds Than These",
+   "parallel-basic": "Never Flinch"
+  }
+ },
+ "418": {
+  "said": {
+   "exa-search": "July 14, 2026",
+   "serpdive-krill": "RIEN",
+   "firecrawl-search": "July 14, 2026",
+   "linkup-standard": "July 14, 2026",
+   "tavily-advanced": "Tuesday, July 14, 2026.",
+   "you-web": "July 14, 2026.",
+   "tavily-basic": "RIEN",
+   "brave-search": "May 12, 2026",
+   "parallel-advanced": "July 14, 2026.",
+   "serpdive-mako": "July 14, 2026.",
+   "parallel-turbo": "RIEN",
+   "serpdive-moby": "July 14, 2026",
+   "parallel-basic": "July 14, 2026"
+  }
+ },
+ "435": {
+  "said": {
+   "brave-search": "Clair Obscur: Expedition 33",
+   "serpdive-mako": "Clair Obscur: Expedition 33",
+   "firecrawl-search": "Clair Obscur: Expedition 33",
+   "parallel-basic": "Clair Obscur: Expedition 33",
+   "parallel-advanced": "Clair Obscur: Expedition 33",
+   "you-web": "Clair Obscur: Expedition 33",
+   "linkup-standard": "Clair Obscur: Expedition 33",
+   "serpdive-krill": "Clair Obscur: Expedition 33",
+   "serpdive-moby": "Clair Obscur: Expedition 33",
+   "tavily-basic": "Clair Obscur: Expedition 33",
+   "tavily-advanced": "Clair Obscur: Expedition 33",
+   "exa-search": "Clair Obscur: Expedition 33",
+   "parallel-turbo": "Clair Obscur: Expedition 33"
+  }
+ },
+ "436": {
+  "said": {
+   "you-web": "September 9, 2026",
+   "brave-search": "September 9, 2026.",
+   "exa-search": "September 9, 2026",
+   "serpdive-moby": "September 9, 2026.",
+   "tavily-advanced": "September 9, 2026.",
+   "linkup-standard": "September 4, 2025.",
+   "parallel-advanced": "September 9, 2026.",
+   "firecrawl-search": "September 9, 2026.",
+   "serpdive-krill": "September 9, 2026.",
+   "tavily-basic": "The latest NFL season is scheduled to begin September 9, 2026.",
+   "parallel-turbo": "September 9, 2026.",
+   "parallel-basic": "September 9, 2026.",
+   "serpdive-mako": "September 9, 2026."
+  }
+ },
+ "437": {
+  "said": {
+   "serpdive-krill": "1,346 undergraduate students (fall 2023).",
+   "exa-search": "1,267 undergraduate students enrolled in fall 2025.",
+   "parallel-basic": "1,267 undergraduate students.",
+   "tavily-advanced": "1,267 undergraduate students.",
+   "brave-search": "1,346 undergraduate students.",
+   "you-web": "1,346 undergraduate students.",
+   "tavily-basic": "1,267 undergraduate students.",
+   "parallel-turbo": "1,267 undergraduate students.",
+   "serpdive-moby": "1,267 undergraduate students.",
+   "serpdive-mako": "1,267 undergraduate students (fall 2025).",
+   "firecrawl-search": "1,267 undergraduate students",
+   "linkup-standard": "1,346 undergraduate students enrolled in fall 2024.",
+   "parallel-advanced": "1,267 undergraduate students enrolled in fall 2025."
+  }
+ },
+ "438": {
+  "said": {
+   "serpdive-krill": "Ousmane Dembélé",
+   "parallel-advanced": "Ousmane Dembélé won the latest Ballon d’Or.",
+   "tavily-advanced": "Ousmane Dembélé",
+   "exa-search": "Ousmane Dembélé.",
+   "firecrawl-search": "Ousmane Dembélé",
+   "parallel-turbo": "Ousmane Dembélé",
+   "serpdive-moby": "Ousmane Dembélé",
+   "brave-search": "Ousmane Dembélé won the latest Ballon d’Or.",
+   "you-web": "Ousmane Dembélé won the latest Ballon d’Or in 2025.",
+   "parallel-basic": "Ousmane Dembélé won the latest Ballon d’Or.",
+   "tavily-basic": "Ousmane Dembélé.",
+   "linkup-standard": "Ousmane Dembélé",
+   "serpdive-mako": "Ousmane Dembélé won the latest Ballon d’Or in 2025."
+  }
+ },
+ "439": {
+  "said": {
+   "serpdive-krill": "The Pitt",
+   "serpdive-mako": "The Pitt",
+   "tavily-basic": "The Pitt",
+   "parallel-advanced": "The Pitt",
+   "exa-search": "The Pitt",
+   "brave-search": "The Pitt",
+   "serpdive-moby": "The Pitt",
+   "linkup-standard": "The Pitt",
+   "parallel-turbo": "The Pitt",
+   "you-web": "The Pitt",
+   "tavily-advanced": "The Pitt",
+   "parallel-basic": "The Pitt",
+   "firecrawl-search": "The Pitt"
+  }
+ },
+ "440": {
+  "said": {
+   "parallel-basic": "Montreal, Canada.",
+   "brave-search": "Montreal, Canada",
+   "tavily-basic": "Montreal, Canada, and Guangzhou, China.",
+   "tavily-advanced": "Montreal, Canada and Guangzhou, China",
+   "linkup-standard": "Montreal, Canada and Guangzhou, China.",
+   "serpdive-moby": "Montreal, Canada, and Guangzhou, China.",
+   "firecrawl-search": "Montreal, Canada and Guangzhou, China.",
+   "parallel-turbo": "Montreal, Canada, and Guangzhou, China.",
+   "serpdive-mako": "Montreal, Canada, and Guangzhou, China.",
+   "you-web": "Montreal, Canada, with a satellite event in Guangzhou, China.",
+   "serpdive-krill": "Bremen, Germany.",
+   "exa-search": "Montreal, Canada, and Guangzhou, China.",
+   "parallel-advanced": "Guangzhou, China."
+  }
+ },
+ "444": {
+  "said": {
+   "exa-search": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "tavily-basic": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "firecrawl-search": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "serpdive-krill": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
+   "serpdive-moby": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "parallel-advanced": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "tavily-advanced": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "linkup-standard": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "serpdive-mako": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "parallel-basic": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
+   "parallel-turbo": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
+   "brave-search": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+   "you-web": "The Buffalo Hunter Hunter by Stephen Graham Jones."
+  }
+ },
+ "451": {
+  "said": {
+   "parallel-advanced": "Aryna Sabalenka",
+   "tavily-basic": "Aryna Sabalenka",
+   "firecrawl-search": "Aryna Sabalenka",
+   "tavily-advanced": "Aryna Sabalenka",
+   "linkup-standard": "Aryna Sabalenka",
+   "serpdive-moby": "Aryna Sabalenka",
+   "serpdive-mako": "Aryna Sabalenka",
+   "you-web": "Aryna Sabalenka",
+   "exa-search": "Aryna Sabalenka",
+   "serpdive-krill": "Aryna Sabalenka",
+   "brave-search": "Aryna Sabalenka",
+   "parallel-basic": "Aryna Sabalenka",
+   "parallel-turbo": "Aryna Sabalenka"
+  }
+ },
+ "459": {
+  "said": {
+   "exa-search": "0 goals",
+   "tavily-advanced": "0 goals",
+   "you-web": "Bukayo Saka scored 0 goals.",
+   "firecrawl-search": "Bukayo Saka scored 0 goals.",
+   "parallel-turbo": "Bukayo Saka scored 0 goals.",
+   "brave-search": "Bukayo Saka scored 0 goals.",
+   "serpdive-moby": "Bukayo Saka scored two goals.",
+   "serpdive-krill": "Bukayo Saka scored 0 goals.",
+   "parallel-basic": "Bukayo Saka scored 0 goals.",
+   "parallel-advanced": "0 goals",
+   "tavily-basic": "Bukayo Saka scored 0 goals.",
+   "serpdive-mako": "Bukayo Saka scored 0 goals.",
+   "linkup-standard": "Bukayo Saka scored 0 goals."
+  }
+ },
+ "465": {
+  "said": {
+   "serpdive-moby": "21 years ago.",
+   "firecrawl-search": "21 years ago",
+   "parallel-turbo": "20 years ago.",
+   "parallel-advanced": "20 years ago.",
+   "serpdive-krill": "21 years ago.",
+   "serpdive-mako": "20 years ago.",
+   "exa-search": "John Paul II died 21 years ago.",
+   "tavily-advanced": "John Paul II died 20 years ago.",
+   "you-web": "21 years ago.",
+   "linkup-standard": "20 years ago.",
+   "tavily-basic": "20 years ago.",
+   "brave-search": "20 years ago.",
+   "parallel-basic": "20 years ago."
+  }
+ },
+ "466": {
+  "said": {
+   "parallel-advanced": "137 years.",
+   "serpdive-moby": "137 years.",
+   "serpdive-mako": "RIEN",
+   "firecrawl-search": "137 years.",
+   "exa-search": "137 years.",
+   "serpdive-krill": "RIEN",
+   "brave-search": "137 years.",
+   "tavily-advanced": "137 years.",
+   "you-web": "137 years.",
+   "tavily-basic": "RIEN",
+   "parallel-turbo": "RIEN",
+   "linkup-standard": "136 years since March 31, 1889.",
+   "parallel-basic": "137 years."
+  }
+ },
+ "474": {
+  "said": {
+   "parallel-turbo": "F1 The Movie",
+   "tavily-advanced": "F1: The Movie (2025)",
+   "exa-search": "F1",
+   "firecrawl-search": "RIEN",
+   "linkup-standard": "F1: The Movie",
+   "parallel-advanced": "F1: The Movie (2025)",
+   "you-web": "F1: The Movie",
+   "parallel-basic": "F1",
+   "brave-search": "RIEN",
+   "serpdive-krill": "Drift of a Lifetime (2025)",
+   "tavily-basic": "F1 The Movie (2025)",
+   "serpdive-mako": "Brad Pitt’s most recent movie as an actor is *F1*.",
+   "serpdive-moby": "F1 (2025)"
+  }
+ },
+ "477": {
+  "said": {
+   "firecrawl-search": "Yes, Tesla’s stock price is above $250 per share.",
+   "serpdive-mako": "Yes, Tesla’s stock price is above $250 per share.",
+   "tavily-advanced": "Yes, Tesla’s stock price is above $250 per share.",
+   "serpdive-krill": "Yes, Tesla’s stock price is above $250 per share.",
+   "parallel-basic": "Yes, Tesla’s stock price is above $250 per share.",
+   "brave-search": "Yes, Tesla’s stock price is above $250 per share.",
+   "exa-search": "Yes, Tesla’s stock price is above $250 per share.",
+   "linkup-standard": "Yes—Tesla’s stock price is reported at $321.55 per share.",
+   "serpdive-moby": "Yes, Tesla traded at approximately $327.84 per share.",
+   "tavily-basic": "Yes, Tesla shares are priced above $250, at approximately $325.54.",
+   "parallel-turbo": "Yes, Tesla’s stock price is above $250 per share.",
+   "parallel-advanced": "Yes, Tesla’s stock price is above $250 per share.",
+   "you-web": "Yes, Tesla’s stock price is above $250 per share."
+  }
+ },
+ "488": {
+  "said": {
+   "serpdive-krill": "83 years old.",
+   "brave-search": "83 years old",
+   "tavily-advanced": "83 years old",
+   "parallel-turbo": "83 years old",
+   "firecrawl-search": "83 years old",
+   "parallel-basic": "83 years old.",
+   "serpdive-mako": "83 years old.",
+   "parallel-advanced": "RIEN",
+   "you-web": "RIEN",
+   "linkup-standard": "83 years old (Kenichi Horie).",
+   "exa-search": "RIEN",
+   "tavily-basic": "83 years old",
+   "serpdive-moby": "Kenichi Horie is currently 87 years old."
+  }
+ },
+ "489": {
+  "said": {
+   "serpdive-mako": "Top 20 semifinalist.",
+   "you-web": "RIEN",
+   "parallel-turbo": "She reached the Top 20 semifinals.",
+   "parallel-advanced": "RIEN",
+   "tavily-advanced": "She reached the Top 20.",
+   "brave-search": "RIEN",
+   "exa-search": "She reached the Top 20.",
+   "tavily-basic": "RIEN.",
+   "serpdive-krill": "RIEN",
+   "parallel-basic": "RIEN",
+   "serpdive-moby": "She reached the Top 20.",
+   "linkup-standard": "She placed as first runner-up.",
+   "firecrawl-search": "RIEN"
+  }
+ },
+ "493": {
+  "said": {
+   "exa-search": "Carolina Hurricanes",
+   "serpdive-mako": "RIEN",
+   "brave-search": "The Carolina Hurricanes.",
+   "parallel-turbo": "RIEN",
+   "linkup-standard": "The Carolina Hurricanes are the latest Stanley Cup champions.",
+   "tavily-advanced": "The Florida Panthers are the latest Stanley Cup champions.",
+   "tavily-basic": "Carolina Hurricanes",
+   "serpdive-krill": "Carolina Hurricanes",
+   "parallel-advanced": "RIEN",
+   "parallel-basic": "RIEN",
+   "you-web": "The Carolina Hurricanes",
+   "firecrawl-search": "The Carolina Hurricanes",
+   "serpdive-moby": "The Carolina Hurricanes"
+  }
+ },
+ "498": {
+  "said": {
+   "you-web": "Bella Poarch",
+   "serpdive-mako": "Bella Poarch.",
+   "firecrawl-search": "Bella Poarch",
+   "linkup-standard": "Bella Poarch.",
+   "exa-search": "Leah Halton",
+   "parallel-turbo": "RIEN",
+   "serpdive-moby": "Bella Poarch.",
+   "brave-search": "Bella Poarch.",
+   "serpdive-krill": "Leah Halton (looooooooch)",
+   "parallel-advanced": "Bella Poarch",
+   "tavily-advanced": "Bella Poarch",
+   "tavily-basic": "Bella Poarch",
+   "parallel-basic": "RIEN"
+  }
+ },
+ "578": {
+  "said": {
+   "tavily-advanced": "Approximately 8.3 billion people.",
+   "serpdive-moby": "Approximately 8.3 billion people.",
+   "firecrawl-search": "Approximately 8.3 billion people.",
+   "serpdive-krill": "Approximately 8.3 billion people live in the world.",
+   "serpdive-mako": "Approximately 8.3 billion people.",
+   "parallel-turbo": "Approximately 8.3 billion people.",
+   "linkup-standard": "Approximately 8.3 billion people.",
+   "exa-search": "Approximately 8.16 billion people (2024 estimate).",
+   "parallel-advanced": "Approximately 8.3 billion people.",
+   "brave-search": "About 8.3 billion people.",
+   "parallel-basic": "Approximately 8 billion people.",
+   "tavily-basic": "Approximately 8.3 billion people.",
+   "you-web": "Approximately 8.3 billion people."
+  }
+ },
+ "581": {
+  "said": {
+   "linkup-standard": "Saturday, February 6, 2027.",
+   "tavily-advanced": "Saturday, February 6, 2027.",
+   "you-web": "Saturday, February 6, 2027",
+   "brave-search": "Saturday, February 6, 2027.",
+   "exa-search": "February 6, 2027",
+   "serpdive-mako": "Saturday, February 6, 2027.",
+   "serpdive-moby": "Saturday, February 6, 2027.",
+   "serpdive-krill": "Tuesday, February 17, 2026.",
+   "tavily-basic": "Saturday, February 6, 2027.",
+   "firecrawl-search": "Saturday, February 6, 2027.",
+   "parallel-advanced": "Saturday, February 6, 2027.",
+   "parallel-basic": "February 6, 2027.",
+   "parallel-turbo": "February 6, 2027."
+  }
+ },
+ "586": {
+  "said": {
+   "brave-search": "Phantom Island",
+   "exa-search": "Phantom Island",
+   "tavily-advanced": "Phantom Island",
+   "parallel-turbo": "Phantom Island",
+   "serpdive-mako": "Phantom Island",
+   "serpdive-moby": "Phantom Island",
+   "linkup-standard": "Phantom Island",
+   "parallel-advanced": "Phantom Island",
+   "firecrawl-search": "Phantom Island",
+   "you-web": "Phantom Island (released June 13, 2025)",
+   "serpdive-krill": "Phantom Island",
+   "tavily-basic": "Phantom Island",
+   "parallel-basic": "Phantom Island"
+  }
+ },
+ "593": {
+  "said": {
+   "exa-search": "162 goals for Manchester City.",
+   "firecrawl-search": "162 official goals for Manchester City.",
+   "parallel-basic": "150 official goals for Manchester City.",
+   "tavily-basic": "162 goals",
+   "brave-search": "150 official goals for Manchester City.",
+   "serpdive-moby": "162 goals for Manchester City",
+   "serpdive-krill": "RIEN",
+   "parallel-advanced": "150 official goals for Manchester City.",
+   "linkup-standard": "141 goals for Manchester City.",
+   "tavily-advanced": "162 goals for Manchester City.",
+   "serpdive-mako": "RIEN",
+   "you-web": "RIEN",
+   "parallel-turbo": "RIEN"
+  }
+ },
+ "596": {
+  "said": {
+   "you-web": "No, Lake Powell’s current water level is approximately 3,521.76 feet.",
+   "parallel-turbo": "No, Lake Powell’s current level is below 3550 feet.",
+   "tavily-basic": "Yes, Lake Powell’s current level is approximately 3,522 feet, above 3,550 feet.",
+   "exa-search": "No, Lake Powell’s current water level is below 3550 feet.",
+   "brave-search": "Yes, Lake Powell is currently approximately 3,522 feet.",
+   "serpdive-moby": "Yes, Lake Powell’s current level is above 3,550 feet.",
+   "parallel-basic": "No, Lake Powell’s current water level is approximately 3,522 feet.",
+   "serpdive-mako": "No, Lake Powell’s current level is below 3,550 feet.",
+   "tavily-advanced": "Yes, Lake Powell’s current level is approximately 3,522 feet, above 3,550 feet.",
+   "linkup-standard": "Yes, Lake Powell’s current water level is above 3,550 feet.",
+   "firecrawl-search": "No, current reported levels are below 3,550 feet.",
+   "parallel-advanced": "No, Lake Powell’s current level is approximately 3,524 feet.",
+   "serpdive-krill": "No, Lake Powell’s current elevation is below 3,550 feet."
+  }
+ }
+}

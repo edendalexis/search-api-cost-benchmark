@@ -1,0 +1,5402 @@
+{
+ "126": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "129": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "130": {
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "132": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "133": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "134": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "136": {
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "142": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "143": {
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "145": {
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "146": {
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "147": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "149": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "154": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "155": {
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "156": {
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "157": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "158": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "159": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "167": {
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "169": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "172": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "173": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "174": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "177": {
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "179": {
+  "firecrawl-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "180": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "181": {
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "182": {
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "184": {
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "185": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "187": {
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "188": {
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "190": {
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "193": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "196": {
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "198": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "199": {
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "200": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "201": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "202": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "203": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "204": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "209": {
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "210": {
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "211": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "216": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "227": {
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "228": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "229": {
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "230": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "232": {
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "235": {
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "236": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "238": {
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "239": {
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "240": {
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "241": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "242": {
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "243": {
+  "exa-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "394": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "395": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "396": {
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "398": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "399": {
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "402": {
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "404": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "406": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "407": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "409": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "410": {
+  "tavily-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "412": {
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "413": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "415": {
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "418": {
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "424": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "434": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "435": {
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "436": {
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "437": {
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "438": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "439": {
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "440": {
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "444": {
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "451": {
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "455": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-krill": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "459": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "474": {
+  "brave-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "477": {
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "478": {
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "479": {
+  "firecrawl-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "488": {
+  "exa-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "493": {
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "496": {
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "498": {
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-turbo": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "546": {
+  "brave-search": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-mako": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  },
+  "firecrawl-search": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "578": {
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "INCORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "581": {
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "INCORRECT",
+   "april": "INCORRECT"
+  }
+ },
+ "586": {
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-basic": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ },
+ "598": {
+  "parallel-advanced": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "parallel-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "tavily-basic": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "you-web": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "parallel-turbo": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-moby": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-mako": {
+   "today": "INCORRECT",
+   "april": "CORRECT"
+  },
+  "linkup-standard": {
+   "today": "NOT_ATTEMPTED",
+   "april": "NOT_ATTEMPTED"
+  },
+  "exa-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "tavily-advanced": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "firecrawl-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "serpdive-krill": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  },
+  "brave-search": {
+   "today": "CORRECT",
+   "april": "CORRECT"
+  }
+ }
+}

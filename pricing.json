@@ -1,0 +1,157 @@
+{
+  "_rules": [
+    "Every figure below is read off the vendor's own public page. `source` is that page, `checked` is the day it was read. Nothing here is estimated, and a stale line is a bug — open an issue.",
+    "LIST PAY-AS-YOU-GO, always. Where a vendor publishes a per-request rate with no commitment, that is the rate used. Volume discounts, annual commitments and promotional rates are ignored for every vendor, including the maintainer's own.",
+    "Where there is no pay-as-you-go rate, the fallback is the cheapest paid plan CONSUMED IN FULL: usd_per_month / (units_per_month / units_per_request) * 1000. That is the most favourable reading for the vendor. A plan you do not exhaust costs more per request than what is shown.",
+    "SELF-REPORTED CONSUMPTION WINS. Where the API states what it billed inside its own payload (`usage_path`), the run reads that field per request instead of assuming one unit. Each vendor measures itself; we never meter the vendor.",
+    "Free tiers are listed for information and are NEVER used in the cost figures. Every vendor here has one, so comparing on them would rank nothing."
+  ],
+  "llms": {
+    "openai/gpt-5.6-luna": {
+      "usd_per_mtok_input": 0.5,
+      "note": "The judge for the published run. Chosen after measuring five candidates on identical payloads: highest recall of the answer, 1.05M context so no payload can overflow it, and half the price of the next best.",
+      "source": "https://openrouter.ai/openai/gpt-5.6-luna",
+      "checked": "2026-07-29"
+    },
+    "anthropic/claude-haiku-4.5": {
+      "usd_per_mtok_input": 1,
+      "note": "Measured as a candidate judge: perfectly deterministic but the weakest recall of the five tested. Kept here for anyone re-pricing the token column on it.",
+      "source": "https://openrouter.ai/anthropic/claude-haiku-4.5",
+      "checked": "2026-07-29"
+    },
+    "openai/gpt-oss-120b": {
+      "usd_per_mtok_input": 0.037,
+      "source": "https://openrouter.ai/openai/gpt-oss-120b",
+      "checked": "2026-07-29"
+    },
+    "anthropic/claude-sonnet-5": {
+      "usd_per_mtok_input": 3,
+      "note": "List rate. An introductory $2.00/MTok runs until 2026-08-31 and is deliberately not used.",
+      "source": "https://platform.claude.com/docs/en/pricing",
+      "checked": "2026-07-29"
+    }
+  },
+  "arms": {
+    "brave-search": {
+      "vendor": "Brave",
+      "billing": "payg",
+      "usd_per_1k_requests": 5,
+      "plan": "Search",
+      "free_tier": "$5 in monthly credits",
+      "source": "https://brave.com/search/api/",
+      "checked": "2026-07-29"
+    },
+    "exa-search": {
+      "vendor": "Exa",
+      "billing": "payg",
+      "usd_per_1k_requests": 7,
+      "usage_path": "costDollars.total",
+      "usage_unit": "usd",
+      "note": "Docs price text contents at $1/1k pages on top of $7/1k searches, but the API's own costDollars returned $0.007 total on our probes with contents enabled. usage_path makes the run use the vendor's reported figure; the derived rate is the fallback.",
+      "free_tier": "$20 in credits on signup",
+      "source": "https://exa.ai/docs/reference/pricing",
+      "checked": "2026-07-29"
+    },
+    "firecrawl-search": {
+      "vendor": "Firecrawl",
+      "billing": "subscription",
+      "plan": "Hobby",
+      "usd_per_month": 16,
+      "billing_cadence": "billed yearly",
+      "units_per_month": 5000,
+      "units_per_request": 2,
+      "usage_path": "creditsUsed",
+      "usage_unit": "credits",
+      "note": "No pay-as-you-go rate published. creditsUsed came back as 2 on every probe, matching the documented search cost.",
+      "free_tier": "1,000 credits/month",
+      "source": "https://www.firecrawl.dev/pricing",
+      "checked": "2026-07-29"
+    },
+    "linkup-standard": {
+      "vendor": "Linkup",
+      "billing": "payg",
+      "usd_per_1k_requests": 5,
+      "note": "depth=standard with outputType=searchResults, $0.005/request. sourcedAnswer costs $0.006 and is a synthesis, out of scope here.",
+      "free_tier": "4,000 queries",
+      "source": "https://docs.linkup.so/pages/documentation/platform/pricing.md",
+      "checked": "2026-07-29"
+    },
+    "parallel-advanced": {
+      "vendor": "Parallel",
+      "billing": "payg",
+      "usd_per_1k_requests": 5,
+      "note": "Search API, mode: advanced — more advanced retrieval and compression (about 3 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "free_tier": "$20 in credits on signup",
+      "source": "https://parallel.ai/pricing",
+      "checked": "2026-07-30"
+    },
+    "parallel-basic": {
+      "vendor": "Parallel",
+      "billing": "payg",
+      "usd_per_1k_requests": 5,
+      "note": "Search API, mode: basic — quick retrieval, deeper context per call (about 1 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "free_tier": "$20 in credits on signup",
+      "source": "https://parallel.ai/pricing",
+      "checked": "2026-07-30"
+    },
+    "parallel-turbo": {
+      "vendor": "Parallel",
+      "billing": "payg",
+      "usd_per_1k_requests": 1,
+      "note": "Search API, mode: turbo — lowest latency and cost (about 200 ms). $1/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "free_tier": "$20 in credits on signup",
+      "source": "https://parallel.ai/pricing",
+      "checked": "2026-07-30"
+    },
+    "serpdive-krill": {
+      "vendor": "SERPdive",
+      "billing": "free_tier",
+      "usd_per_1k_requests": 0,
+      "note": "Costs 0 credits on every plan — it is the free tier, unlimited under fair use. Ranked separately from the paid arms for that reason; see METHOD.md.",
+      "source": "https://serpdive.com/pricing",
+      "checked": "2026-07-29"
+    },
+    "serpdive-mako": {
+      "vendor": "SERPdive",
+      "billing": "payg",
+      "usd_per_1k_requests": 7,
+      "note": "1 credit at the $0.007 list rate. A launch promotion runs at $0.005 until 2026-10-11 and is deliberately not used.",
+      "free_tier": "1,000 credits/month",
+      "source": "https://serpdive.com/pricing",
+      "checked": "2026-07-29"
+    },
+    "serpdive-moby": {
+      "vendor": "SERPdive",
+      "billing": "payg",
+      "usd_per_1k_requests": 10.5,
+      "note": "1.5 credits at the $0.007 list rate.",
+      "free_tier": "1,000 credits/month",
+      "source": "https://serpdive.com/pricing",
+      "checked": "2026-07-29"
+    },
+    "tavily-advanced": {
+      "vendor": "Tavily",
+      "billing": "payg",
+      "usd_per_1k_requests": 16,
+      "note": "2 credits at the $0.008 pay-as-you-go rate.",
+      "source": "https://docs.tavily.com/documentation/api-credits",
+      "checked": "2026-07-29"
+    },
+    "tavily-basic": {
+      "vendor": "Tavily",
+      "billing": "payg",
+      "usd_per_1k_requests": 8,
+      "note": "1 credit at the $0.008 pay-as-you-go rate.",
+      "source": "https://docs.tavily.com/documentation/api-credits",
+      "checked": "2026-07-29"
+    },
+    "you-web": {
+      "vendor": "You.com",
+      "billing": "payg",
+      "usd_per_1k_requests": 5,
+      "free_tier": "100 calls/day",
+      "source": "https://you.com/pricing",
+      "checked": "2026-07-29"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "search-api-cost-benchmark",
+  "version": "1.0.0",
+  "description": "What a correct answer costs, per search API: the price at the door plus the tokens the payload pushes into your agent.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "probe": "node bin/probe.mjs",
+    "questions": "node bin/import-freshqa.mjs",
+    "bench": "node bin/bench.mjs",
+    "table": "node bin/table.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
