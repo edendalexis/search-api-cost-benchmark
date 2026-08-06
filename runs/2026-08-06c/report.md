@@ -4,7 +4,7 @@
 
 | # | Provider | API $/1k | Tokens / query | LLM $/1k | **Total $/1k** | Correct | $ / correct answer |
 |---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | `serpdive-krill` † | $0.00 | 971 | $2.91 | **$2.91** | 78% | $0.0037 |
+| 1 | `serpdive-krill` | $0.00 | 971 | $2.91 | **$2.91** | 78% | $0.0037 |
 | 2 | `serpdive-mako` | $7.00 | 1,891 | $5.67 | **$12.67** | 88% | $0.0144 |
 | 3 | `parallel-turbo` | $1.00 | 4,155 | $12.46 | **$13.46** | 79% | $0.0170 |
 | 4 | `tavily-basic` | $8.00 | 3,166 | $9.50 | **$17.50** | 88% | $0.0199 |
@@ -18,4 +18,4 @@
 | 12 | `brave-search` | $5.00 | 47,996 | $143.99 | **$148.99** | 93% | $0.1602 |
 | 13 | `exa-search` | $7.00 | 65,543 | $196.63 | **$203.63** | 93% | $0.2190 |
 
-† Costs zero at the door on every plan of its vendor, free or paid. That is its list price, not a promotion, and the token column still applies.
+`serpdive-krill` costs zero at the door on every plan of its vendor, free or paid. That is its list price, not a promotion, and the token column still applies.
