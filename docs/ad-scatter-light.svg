@@ -33,11 +33,11 @@
 <text x="233.1" y="359.9" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Parallel Turbo</text>
 <circle cx="268.7" cy="235.4" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
 <text x="280.7" y="240.4" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Tavily Basic</text>
+<circle cx="391.1" cy="182.2" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
+<text x="403.1" y="187.2" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Exa Highlights</text>
 <circle cx="441.0" cy="142.4" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
 <text x="453.0" y="147.4" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">You.com</text>
-<circle cx="693.5" cy="275.2" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
-<text x="705.5" y="280.2" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Linkup Standard</text>
 <circle cx="721.0" cy="155.7" r="6" fill="#b9c6cb" stroke="#ffffff" stroke-width="1.5"/>
 <text x="733.0" y="160.7" font-size="14" font-weight="700" fill="#0c1517" text-anchor="start">Firecrawl</text>
-<text x="62" y="458" font-size="10.5" fill="#8fa0a5">100 questions, 2026-08-06. github.com/edendalexis/search-api-cost-benchmark</text>
+<text x="62" y="458" font-size="10.5" fill="#8fa0a5">100 questions, 2026-08-07. github.com/edendalexis/search-api-cost-benchmark</text>
 </svg>

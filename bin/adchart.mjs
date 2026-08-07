@@ -22,7 +22,7 @@ const R = JSON.parse(readFileSync(`${ROOT}${RUNREL}/results.json`, 'utf8'));
 const DOMAIN = { SERPdive: 'serpdive.com', Parallel: 'parallel.ai', Tavily: 'tavily.com', 'You.com': 'you.com', Firecrawl: 'firecrawl.dev', Linkup: 'linkup.so', Brave: 'brave.com', Exa: 'exa.ai' };
 const markOf = (d) => { const f = `${ROOT}docs/marks/${d}.png`; return existsSync(f) ? `data:image/png;base64,${readFileSync(f).toString('base64')}` : null; };
 const VENDOR = { serpdive: 'SERPdive', parallel: 'Parallel', tavily: 'Tavily', you: 'You.com', firecrawl: 'Firecrawl', linkup: 'Linkup', brave: 'Brave', exa: 'Exa' };
-const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic: 'Basic', advanced: 'Advanced', standard: 'Standard', search: '', web: '' };
+const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic: 'Basic', advanced: 'Advanced', standard: 'Standard', highlights: 'Highlights', search: '', web: '' };
 
 const all = R.arms.filter((a) => a.total_usd_per_1k != null).map((a) => {
   const vendor = VENDOR[a.vendor] || a.vendor;

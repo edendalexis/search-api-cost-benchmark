@@ -29,7 +29,7 @@ const mark = (d) => {
   return existsSync(f) ? `data:image/png;base64,${readFileSync(f).toString('base64')}` : null;
 };
 
-const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic: 'Basic', advanced: 'Advanced', standard: 'Standard', search: '', web: '' };
+const TIER = { krill: 'Krill', mako: 'Mako', moby: 'Moby', turbo: 'Turbo', basic: 'Basic', advanced: 'Advanced', standard: 'Standard', highlights: 'Highlights', search: '', web: '' };
 const pts = R.arms.filter((a) => a.total_usd_per_1k != null).map((a) => {
   const vendor = VENDOR[a.vendor] || a.vendor;
   const t = TIER[a.arm.replace(/^[a-z]+-/, '')] ?? '';
