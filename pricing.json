@@ -1,6 +1,6 @@
 {
   "_rules": [
-    "Every figure below is read off the vendor's own public page. `source` is that page, `checked` is the day it was read. Nothing here is estimated, and a stale line is a bug — open an issue.",
+    "Every figure below is read off the vendor's own public page. `source` is that page, `checked` is the day it was read. Nothing here is estimated, and a stale line is a bug \u2014 open an issue.",
     "LIST PAY-AS-YOU-GO, always. Where a vendor publishes a per-request rate with no commitment, that is the rate used. Volume discounts, annual commitments and promotional rates are ignored for every vendor, including the maintainer's own.",
     "Where there is no pay-as-you-go rate, the fallback is the cheapest paid plan CONSUMED IN FULL: usd_per_month / (units_per_month / units_per_request) * 1000. That is the most favourable reading for the vendor. A plan you do not exhaust costs more per request than what is shown.",
     "SELF-REPORTED CONSUMPTION WINS. Where the API states what it billed inside its own payload (`usage_path`), the run reads that field per request instead of assuming one unit. Each vendor measures itself; we never meter the vendor.",
@@ -80,7 +80,7 @@
       "vendor": "Parallel",
       "billing": "payg",
       "usd_per_1k_requests": 5,
-      "note": "Search API, mode: advanced — more advanced retrieval and compression (about 3 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "note": "Search API, mode: advanced \u2014 more advanced retrieval and compression (about 3 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
       "free_tier": "$20 in credits on signup",
       "source": "https://parallel.ai/pricing",
       "checked": "2026-07-30"
@@ -89,7 +89,7 @@
       "vendor": "Parallel",
       "billing": "payg",
       "usd_per_1k_requests": 5,
-      "note": "Search API, mode: basic — quick retrieval, deeper context per call (about 1 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "note": "Search API, mode: basic \u2014 quick retrieval, deeper context per call (about 1 s). $5/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
       "free_tier": "$20 in credits on signup",
       "source": "https://parallel.ai/pricing",
       "checked": "2026-07-30"
@@ -98,7 +98,7 @@
       "vendor": "Parallel",
       "billing": "payg",
       "usd_per_1k_requests": 1,
-      "note": "Search API, mode: turbo — lowest latency and cost (about 200 ms). $1/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
+      "note": "Search API, mode: turbo \u2014 lowest latency and cost (about 200 ms). $1/1k for 10 results, plus $1/1k for each additional thousand results. Endpoint /v1/search: /v1beta and /alpha also answer but with a different vocabulary of modes, and the Task API field `processor` is silently ignored there.",
       "free_tier": "$20 in credits on signup",
       "source": "https://parallel.ai/pricing",
       "checked": "2026-07-30"
@@ -107,7 +107,7 @@
       "vendor": "SERPdive",
       "billing": "free_tier",
       "usd_per_1k_requests": 0,
-      "note": "Costs 0 credits on every plan — it is the free tier, unlimited under fair use. Ranked separately from the paid arms for that reason; see METHOD.md.",
+      "note": "Costs 0 credits on every plan \u2014 it is the free tier, unlimited under fair use. Ranked separately from the paid arms for that reason; see METHOD.md.",
       "source": "https://serpdive.com/#pricing",
       "checked": "2026-07-29"
     },
@@ -152,6 +152,17 @@
       "free_tier": "100 calls/day",
       "source": "https://you.com/pricing",
       "checked": "2026-07-29"
+    },
+    "exa-highlights": {
+      "vendor": "Exa",
+      "billing": "payg",
+      "usd_per_1k_requests": 7.0,
+      "usage_path": "costDollars.total",
+      "usage_unit": "usd",
+      "note": "Same endpoint and same per-search rate as exa-search, with contents.highlights instead of contents.text. Added 2026-08-07 after a reader pointed out that text mode is Exa's heaviest content option; highlights is its other documented mode and carries Exa's own 4,000 character cap.",
+      "free_tier": "$20 in credits on signup",
+      "source": "https://exa.ai/docs/reference/search",
+      "checked": "2026-08-07"
     }
   }
 }

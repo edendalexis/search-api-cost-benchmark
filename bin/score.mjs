@@ -67,9 +67,14 @@ Reply with one word: CORRECT, INCORRECT or NOT_ATTEMPTED.`);
 const res = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
 let done = 0;
 for (const [row, g] of rows) {
-  if (res[row]) { done++; continue; }
-  const rec = {};
-  await Promise.all(arms.map(async (arm) => {
+  // An arm added after the run was scored has no grades on rows that already have
+  // some. Skipping the whole row would leave it permanently ungraded, so only the
+  // arms missing from a row are judged: nothing already paid for is re-judged, and
+  // nothing new is left out.
+  const rec = res[row] || {};
+  const todo = arms.filter((a) => rec[a] === undefined);
+  if (!todo.length) { done++; continue; }
+  await Promise.all(todo.map(async (arm) => {
     const said = g.said?.[arm] || 'NOTHING';
     rec[arm] = {
       today: g.gold_today ? await grade(g.question, said, g.gold_today) : null,

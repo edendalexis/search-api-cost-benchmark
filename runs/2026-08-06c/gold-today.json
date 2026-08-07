@@ -20,7 +20,8 @@
    "you-web": "There are 10 University of California schools in the United States.",
    "parallel-turbo": "There are 10 UC schools in the United States.",
    "brave-search": "There are 10 UC schools in the United States.",
-   "linkup-standard": "There are 10 UC schools in the United States."
+   "linkup-standard": "There are 10 UC schools in the United States.",
+   "exa-highlights": "10 UC campuses"
   }
  },
  "129": {
@@ -44,7 +45,8 @@
    "serpdive-mako": "Parking costs $10 per car, $5 per motorcycle, at Gate 9.",
    "exa-search": "$10 per car; $5 for motorcycles.",
    "brave-search": "Parking costs $10 for cars and $5 for motorcycles at Gate 9.",
-   "tavily-basic": "Parking costs $10 for cars and trucks; motorcycles cost $5, cash only."
+   "tavily-basic": "Parking costs $10 for cars and trucks; motorcycles cost $5, cash only.",
+   "exa-highlights": "Parking costs $10 for cars and trucks, and $5 for motorcycles."
   }
  },
  "130": {
@@ -68,7 +70,8 @@
    "you-web": "Princeton University",
    "linkup-standard": "Princeton University",
    "tavily-basic": "Harvard University",
-   "parallel-basic": "Princeton University"
+   "parallel-basic": "Princeton University",
+   "exa-highlights": "Princeton University"
   }
  },
  "132": {
@@ -92,7 +95,8 @@
    "tavily-basic": "Rafael Nadal has won 22 Grand Slam singles titles.",
    "firecrawl-search": "Rafael Nadal has won 22 Grand Slam singles titles.",
    "linkup-standard": "Rafael Nadal has won 22 Grand Slam titles.",
-   "exa-search": "Rafael Nadal has won 22 Grand Slam singles titles."
+   "exa-search": "Rafael Nadal has won 22 Grand Slam singles titles.",
+   "exa-highlights": "Rafael Nadal has won 22 Grand Slam singles titles."
   }
  },
  "133": {
@@ -116,7 +120,8 @@
    "serpdive-mako": "Friedrich Merz",
    "serpdive-krill": "Friedrich Merz",
    "exa-search": "Friedrich Merz",
-   "parallel-advanced": "Friedrich Merz"
+   "parallel-advanced": "Friedrich Merz",
+   "exa-highlights": "Friedrich Merz"
   }
  },
  "134": {
@@ -140,7 +145,8 @@
    "you-web": "Mario is the best-selling video game franchise of all time.",
    "linkup-standard": "Mario franchise",
    "parallel-turbo": "Mario is the best-selling video game franchise of all time.",
-   "tavily-basic": "Mario is the best-selling video game franchise of all time."
+   "tavily-basic": "Mario is the best-selling video game franchise of all time.",
+   "exa-highlights": "Mario"
   }
  },
  "136": {
@@ -164,7 +170,8 @@
    "parallel-advanced": "Eight English translations.",
    "you-web": "Eight English translations.",
    "serpdive-moby": "Eight English translations.",
-   "serpdive-mako": "Six English translations are listed."
+   "serpdive-mako": "Six English translations are listed.",
+   "exa-highlights": "There are eight English translations of *Les Misérables*."
   }
  },
  "142": {
@@ -188,7 +195,8 @@
    "exa-search": "Mohamed Mokhtar Dahari holds Malaysia’s international scoring record with 89 goals.",
    "serpdive-krill": "RIEN",
    "firecrawl-search": "Mokhtar Dahari (89 goals)",
-   "serpdive-mako": "Mokhtar Dahari"
+   "serpdive-mako": "Mokhtar Dahari",
+   "exa-highlights": "Mokhtar Dahari"
   }
  },
  "143": {
@@ -212,7 +220,8 @@
    "brave-search": "Six games.",
    "linkup-standard": "There are six games in the Ace Attorney main series.",
    "serpdive-krill": "There are six games in the Ace Attorney main series.",
-   "serpdive-mako": "RIEN"
+   "serpdive-mako": "RIEN",
+   "exa-highlights": "Six games."
   }
  },
  "145": {
@@ -236,7 +245,8 @@
    "parallel-advanced": "49 matches",
    "serpdive-krill": "49 matches",
    "linkup-standard": "49 matches",
-   "parallel-turbo": "49 matches"
+   "parallel-turbo": "49 matches",
+   "exa-highlights": "49 matches"
   }
  },
  "146": {
@@ -260,7 +270,8 @@
    "firecrawl-search": "Hindi",
    "brave-search": "Hindi",
    "serpdive-moby": "Hindi",
-   "tavily-advanced": "Hindi"
+   "tavily-advanced": "Hindi",
+   "exa-highlights": "Hindi"
   }
  },
  "147": {
@@ -284,7 +295,8 @@
    "serpdive-krill": "Dangal",
    "serpdive-mako": "Dangal",
    "tavily-basic": "Dangal",
-   "serpdive-moby": "Dangal"
+   "serpdive-moby": "Dangal",
+   "exa-highlights": "Dangal"
   }
  },
  "149": {
@@ -308,7 +320,8 @@
    "tavily-basic": "Lisa of BLACKPINK.",
    "you-web": "Lisa of BLACKPINK.",
    "serpdive-moby": "Lisa from BLACKPINK.",
-   "firecrawl-search": "Lisa from BLACKPINK"
+   "firecrawl-search": "Lisa from BLACKPINK",
+   "exa-highlights": "Lisa (BLACKPINK)"
   }
  },
  "154": {
@@ -332,7 +345,8 @@
    "tavily-basic": "There are 21 member states in the Eurozone.",
    "tavily-advanced": "21 member states",
    "parallel-turbo": "21 member states",
-   "serpdive-moby": "21 member states"
+   "serpdive-moby": "21 member states",
+   "exa-highlights": "21 member states"
   }
  },
  "155": {
@@ -356,7 +370,8 @@
    "you-web": "Bulgaria",
    "exa-search": "Bulgaria",
    "tavily-basic": "Bulgaria",
-   "linkup-standard": "Bulgaria"
+   "linkup-standard": "Bulgaria",
+   "exa-highlights": "Bulgaria"
   }
  },
  "156": {
@@ -380,7 +395,8 @@
    "parallel-turbo": "Tesla offers five vehicle models.",
    "linkup-standard": "Tesla offers four vehicle models.",
    "serpdive-mako": "Tesla offers five vehicle models.",
-   "serpdive-moby": "Tesla offers five vehicle models."
+   "serpdive-moby": "Tesla offers five vehicle models.",
+   "exa-highlights": "NOTHING"
   }
  },
  "157": {
@@ -404,7 +420,8 @@
    "tavily-basic": "Colleen Hoover has published 26 books.",
    "parallel-basic": "Colleen Hoover has published more than 24 books.",
    "brave-search": "26 books",
-   "tavily-advanced": "Colleen Hoover has published 26 books."
+   "tavily-advanced": "Colleen Hoover has published 26 books.",
+   "exa-highlights": "26 books"
   }
  },
  "158": {
@@ -428,7 +445,8 @@
    "parallel-basic": "Hurry Up Tomorrow",
    "tavily-basic": "Hurry Up Tomorrow",
    "serpdive-mako": "Hurry Up Tomorrow",
-   "you-web": "Hurry Up Tomorrow"
+   "you-web": "Hurry Up Tomorrow",
+   "exa-highlights": "Hurry Up Tomorrow"
   }
  },
  "159": {
@@ -452,7 +470,8 @@
    "parallel-basic": "Elon Musk has 14 children, including his deceased child.",
    "brave-search": "Elon Musk has 14 children, including his deceased child.",
    "serpdive-krill": "Elon Musk has 14 children, including his deceased child.",
-   "parallel-turbo": "14 children"
+   "parallel-turbo": "14 children",
+   "exa-highlights": "Elon Musk has 14 children, including his deceased child."
   }
  },
  "167": {
@@ -476,7 +495,8 @@
    "serpdive-moby": "Sanae Takaichi",
    "tavily-advanced": "Sanae Takaichi",
    "serpdive-krill": "Sanae Takaichi",
-   "firecrawl-search": "Sanae Takaichi"
+   "firecrawl-search": "Sanae Takaichi",
+   "exa-highlights": "Sanae Takaichi"
   }
  },
  "169": {
@@ -500,7 +520,8 @@
    "serpdive-moby": "Luke Littler",
    "tavily-basic": "Luke Littler",
    "firecrawl-search": "Luke Littler",
-   "parallel-advanced": "Luke Littler"
+   "parallel-advanced": "Luke Littler",
+   "exa-highlights": "Luke Littler"
   }
  },
  "172": {
@@ -524,7 +545,8 @@
    "parallel-turbo": "Yes—on April 8, 2024, a total solar eclipse crossed the continental United States.",
    "you-web": "No; this year’s eclipse in the continental U.S. is partial, not total.",
    "serpdive-mako": "No; the continental US has no total solar eclipse this year.",
-   "firecrawl-search": "No; the next continental U.S. total solar eclipse is in 2044."
+   "firecrawl-search": "No; the next continental U.S. total solar eclipse is in 2044.",
+   "exa-highlights": "No. This year’s eclipse is only partial in the continental United States."
   }
  },
  "173": {
@@ -548,7 +570,8 @@
    "serpdive-krill": "Donald Trump",
    "parallel-basic": "Donald J. Trump",
    "exa-search": "Donald J. Trump",
-   "parallel-advanced": "Donald Trump"
+   "parallel-advanced": "Donald Trump",
+   "exa-highlights": "Donald J. Trump"
   }
  },
  "174": {
@@ -572,7 +595,8 @@
    "tavily-basic": ".NET 10",
    "you-web": "The latest major version of .NET is .NET 10.",
    "brave-search": ".NET 10",
-   "parallel-turbo": ".NET 10 is the latest major version."
+   "parallel-turbo": ".NET 10 is the latest major version.",
+   "exa-highlights": ".NET 10"
   }
  },
  "177": {
@@ -596,7 +620,8 @@
    "serpdive-mako": "Morphotrophic (2024)",
    "parallel-advanced": "Morphotrophic",
    "serpdive-moby": "The Book of All Skies",
-   "firecrawl-search": "Morphotrophic (2024)"
+   "firecrawl-search": "Morphotrophic (2024)",
+   "exa-highlights": "Morphotrophic"
   }
  },
  "179": {
@@ -620,7 +645,8 @@
    "linkup-standard": "Keir Starmer",
    "you-web": "Keir Starmer",
    "tavily-advanced": "Keir Starmer",
-   "serpdive-krill": "Keir Starmer"
+   "serpdive-krill": "Keir Starmer",
+   "exa-highlights": "Keir Starmer"
   }
  },
  "180": {
@@ -644,7 +670,8 @@
    "parallel-basic": "Cristiano Ronaldo",
    "firecrawl-search": "Cristiano Ronaldo",
    "linkup-standard": "Cristiano Ronaldo",
-   "parallel-advanced": "Cristiano Ronaldo"
+   "parallel-advanced": "Cristiano Ronaldo",
+   "exa-highlights": "Cristiano Ronaldo"
   }
  },
  "181": {
@@ -668,7 +695,8 @@
    "linkup-standard": "The Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda.",
    "serpdive-mako": "The Ebola outbreak caused by Bundibugyo virus in DRC and Uganda.",
    "parallel-basic": "The Ebola outbreak in the Democratic Republic of the Congo and Uganda.",
-   "serpdive-krill": "The Ebola outbreak in the Democratic Republic of Congo and Uganda."
+   "serpdive-krill": "The Ebola outbreak in the Democratic Republic of Congo and Uganda.",
+   "exa-highlights": "Ebola disease caused by Bundibugyo virus in the DRC and Uganda."
   }
  },
  "182": {
@@ -692,7 +720,8 @@
    "parallel-basic": "$130 per year.",
    "linkup-standard": "$130 annually.",
    "you-web": "Costco Executive membership costs $130 annually.",
-   "tavily-advanced": "$130 annually."
+   "tavily-advanced": "$130 annually.",
+   "exa-highlights": "$130 annually."
   }
  },
  "184": {
@@ -716,7 +745,8 @@
    "you-web": "November 22, 2024",
    "serpdive-mako": "November 22, 2024",
    "parallel-turbo": "November 22, 2024",
-   "tavily-basic": "November 22, 2024"
+   "tavily-basic": "November 22, 2024",
+   "exa-highlights": "November 22, 2024"
   }
  },
  "185": {
@@ -740,7 +770,8 @@
    "parallel-turbo": "Paris, France.",
    "serpdive-krill": "RIEN",
    "exa-search": "Paris, France.",
-   "brave-search": "Paris, France, in 2024."
+   "brave-search": "Paris, France, in 2024.",
+   "exa-highlights": "Paris, France"
   }
  },
  "187": {
@@ -764,7 +795,8 @@
    "serpdive-krill": "2028",
    "brave-search": "2028, with Leap Day on February 29.",
    "serpdive-mako": "2028",
-   "tavily-basic": "2028"
+   "tavily-basic": "2028",
+   "exa-highlights": "2028"
   }
  },
  "188": {
@@ -788,7 +820,8 @@
    "parallel-advanced": "December 27, 2023.",
    "parallel-basic": "December 2023.",
    "serpdive-moby": "December 2023.",
-   "parallel-turbo": "Late 2023; the sale was announced November 28, 2023."
+   "parallel-turbo": "Late 2023; the sale was announced November 28, 2023.",
+   "exa-highlights": "December 27, 2023."
   }
  },
  "190": {
@@ -812,7 +845,8 @@
    "linkup-standard": "Elon Musk",
    "exa-search": "Elon Musk",
    "tavily-advanced": "Elon Musk",
-   "firecrawl-search": "Elon Musk"
+   "firecrawl-search": "Elon Musk",
+   "exa-highlights": "Elon Musk"
   }
  },
  "193": {
@@ -836,7 +870,8 @@
    "exa-search": "Jerrold Nadler",
    "serpdive-moby": "Jerry Nadler",
    "parallel-basic": "Jerrold Nadler",
-   "linkup-standard": "Jerrold “Jerry” Nadler"
+   "linkup-standard": "Jerrold “Jerry” Nadler",
+   "exa-highlights": "Jerrold Nadler"
   }
  },
  "196": {
@@ -860,7 +895,8 @@
    "parallel-basic": "United States",
    "parallel-turbo": "United States (USA)",
    "serpdive-krill": "United States of America",
-   "parallel-advanced": "United States"
+   "parallel-advanced": "United States",
+   "exa-highlights": "United States"
   }
  },
  "198": {
@@ -884,7 +920,8 @@
    "firecrawl-search": "Saif al-Adel (de facto)",
    "serpdive-krill": "RIEN",
    "tavily-advanced": "Sayf al-Adl is al-Qaeda’s de facto and uncontested leader.",
-   "parallel-advanced": "Sayf al-Adl (the de facto leader)"
+   "parallel-advanced": "Sayf al-Adl (the de facto leader)",
+   "exa-highlights": "Saif al-Adel is al-Qaeda’s de facto leader."
   }
  },
  "199": {
@@ -908,7 +945,8 @@
    "tavily-advanced": "490 passes",
    "serpdive-moby": "490 passes",
    "parallel-turbo": "490 passes",
-   "you-web": "490 passes"
+   "you-web": "490 passes",
+   "exa-highlights": "490 passes"
   }
  },
  "200": {
@@ -932,7 +970,8 @@
    "exa-search": "Japan",
    "brave-search": "Japan won the latest World Pastry Cup.",
    "serpdive-krill": "RIEN",
-   "serpdive-moby": "Japan"
+   "serpdive-moby": "Japan",
+   "exa-highlights": "Japan"
   }
  },
  "201": {
@@ -956,7 +995,8 @@
    "parallel-basic": "$2.05 billion Powerball jackpot, won by Edwin Castro in 2022.",
    "parallel-advanced": "$2.04 billion Powerball jackpot, won by a single ticket in 2022.",
    "serpdive-krill": "$2.04 billion Powerball jackpot, won by a single California ticket in 2022.",
-   "brave-search": "$2.04 billion Powerball jackpot, won by a single ticket in California."
+   "brave-search": "$2.04 billion Powerball jackpot, won by a single ticket in California.",
+   "exa-highlights": "$2.05 billion Powerball jackpot, won by a single ticket in November 2022."
   }
  },
  "202": {
@@ -980,7 +1020,8 @@
    "you-web": "Two World Series titles.",
    "brave-search": "Two World Series titles.",
    "serpdive-mako": "The Houston Astros have won two World Series titles.",
-   "exa-search": "The Houston Astros have won two World Series titles."
+   "exa-search": "The Houston Astros have won two World Series titles.",
+   "exa-highlights": "2"
   }
  },
  "203": {
@@ -1004,7 +1045,8 @@
    "linkup-standard": "Keiko Fujimori",
    "tavily-advanced": "Keiko Fujimori",
    "serpdive-krill": "Keiko Fujimori.",
-   "you-web": "Keiko Fujimori."
+   "you-web": "Keiko Fujimori.",
+   "exa-highlights": "Keiko Fujimori"
   }
  },
  "204": {
@@ -1028,7 +1070,8 @@
    "parallel-basic": "Russia",
    "serpdive-mako": "Russia",
    "parallel-advanced": "Russia",
-   "parallel-turbo": "Russia"
+   "parallel-turbo": "Russia",
+   "exa-highlights": "Russia"
   }
  },
  "209": {
@@ -1052,7 +1095,8 @@
    "linkup-standard": "New Zealand has won six Women’s Rugby World Cup titles.",
    "serpdive-moby": "New Zealand has won six Women's Rugby World Cup titles.",
    "tavily-advanced": "New Zealand has won six Women's Rugby World Cup titles.",
-   "exa-search": "Six titles."
+   "exa-search": "Six titles.",
+   "exa-highlights": "Six titles."
   }
  },
  "210": {
@@ -1076,7 +1120,8 @@
    "parallel-turbo": "893 Nazca geoglyphs.",
    "parallel-advanced": "733 geoglyphs.",
    "serpdive-moby": "893 Nazca geoglyphs.",
-   "linkup-standard": "893 Nazca geoglyphs."
+   "linkup-standard": "893 Nazca geoglyphs.",
+   "exa-highlights": "893 Nazca geoglyphs."
   }
  },
  "211": {
@@ -1100,7 +1145,8 @@
    "serpdive-mako": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3,360,000.",
    "linkup-standard": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3,360,000.",
    "exa-search": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million.",
-   "parallel-turbo": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million."
+   "parallel-turbo": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million.",
+   "exa-highlights": "Page 25 of Marvel Super-Heroes Secret Wars #8, sold for $3.36 million."
   }
  },
  "216": {
@@ -1124,7 +1170,8 @@
    "serpdive-moby": "2033.",
    "you-web": "2033 in the Gregorian calendar.",
    "serpdive-mako": "RIEN",
-   "parallel-basic": "2033 in the Gregorian calendar."
+   "parallel-basic": "2033 in the Gregorian calendar.",
+   "exa-highlights": "2033 in the Gregorian calendar."
   }
  },
  "227": {
@@ -1148,7 +1195,8 @@
    "exa-search": "Four publicly traded American companies.",
    "firecrawl-search": "Four publicly traded American companies.",
    "tavily-advanced": "Four companies.",
-   "tavily-basic": "Three companies."
+   "tavily-basic": "Three companies.",
+   "exa-highlights": "Four companies."
   }
  },
  "228": {
@@ -1172,7 +1220,8 @@
    "linkup-standard": "Peru has had six presidents in the last five years.",
    "tavily-basic": "RIEN",
    "serpdive-mako": "RIEN",
-   "tavily-advanced": "Five presidents."
+   "tavily-advanced": "Five presidents.",
+   "exa-highlights": "Four presidents."
   }
  },
  "229": {
@@ -1196,7 +1245,8 @@
    "tavily-advanced": "Two flights.",
    "serpdive-mako": "Two successful launches.",
    "linkup-standard": "Two successful launches.",
-   "parallel-basic": "Two flights."
+   "parallel-basic": "Two flights.",
+   "exa-highlights": "Two flights."
   }
  },
  "230": {
@@ -1220,7 +1270,8 @@
    "tavily-basic": "Three.",
    "exa-search": "Three declarations: COVID-19 and two mpox outbreaks.",
    "serpdive-mako": "RIEN",
-   "serpdive-moby": "RIEN"
+   "serpdive-moby": "RIEN",
+   "exa-highlights": "Three declarations: COVID-19 (2020) and mpox (2022 and 2024)."
   }
  },
  "232": {
@@ -1244,7 +1295,8 @@
    "serpdive-krill": "Zero federal crimes; he was convicted of 34 New York state felonies.",
    "you-web": "Zero federal crimes.",
    "serpdive-moby": "None; his 34 convictions were state crimes, not federal offenses.",
-   "tavily-advanced": "Zero; his 34 convictions were state crimes, while federal cases were dismissed."
+   "tavily-advanced": "Zero; his 34 convictions were state crimes, while federal cases were dismissed.",
+   "exa-highlights": "None; his 34 convictions were state felonies, not federal crimes."
   }
  },
  "235": {
@@ -1268,7 +1320,8 @@
    "serpdive-moby": "No—Tesla’s CEO is Elon Musk; X Corp.’s was Linda Yaccarino.",
    "firecrawl-search": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO is Linda Yaccarino.",
    "you-web": "No; Elon Musk is Tesla’s CEO, while Linda Yaccarino is X Corp.’s.",
-   "linkup-standard": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO was Linda Yaccarino."
+   "linkup-standard": "No. Tesla’s CEO is Elon Musk; X Corp.’s CEO was Linda Yaccarino.",
+   "exa-highlights": "NOTHING"
   }
  },
  "236": {
@@ -1292,7 +1345,8 @@
    "firecrawl-search": "Shreveport, Louisiana",
    "brave-search": "Shreveport, Louisiana",
    "serpdive-krill": "RIEN",
-   "serpdive-moby": "Shreveport, Louisiana"
+   "serpdive-moby": "Shreveport, Louisiana",
+   "exa-highlights": "Shreveport, Louisiana"
   }
  },
  "238": {
@@ -1316,7 +1370,8 @@
    "serpdive-mako": "Once — the 2023 Pokémon World Championships were held in Japan.",
    "serpdive-krill": "RIEN",
    "parallel-turbo": "RIEN",
-   "you-web": "Once"
+   "you-web": "Once",
+   "exa-highlights": "Once."
   }
  },
  "239": {
@@ -1340,7 +1395,8 @@
    "serpdive-mako": "RIEN",
    "parallel-basic": "Lionel Messi has the most liked post on Instagram.",
    "tavily-advanced": "Lionel Messi.",
-   "serpdive-krill": "Lionel Messi has the most-liked post on Instagram."
+   "serpdive-krill": "Lionel Messi has the most-liked post on Instagram.",
+   "exa-highlights": "Lionel Messi."
   }
  },
  "240": {
@@ -1364,7 +1420,8 @@
    "parallel-turbo": "November 27, 2022.",
    "brave-search": "November 27–December 13, 2022",
    "serpdive-mako": "Mauna Loa’s most recent eruption occurred in 2022.",
-   "serpdive-krill": "Late 2022."
+   "serpdive-krill": "Late 2022.",
+   "exa-highlights": "November–December 2022."
   }
  },
  "241": {
@@ -1388,7 +1445,8 @@
    "you-web": "One active player.",
    "tavily-advanced": "1",
    "exa-search": "One",
-   "firecrawl-search": "1"
+   "firecrawl-search": "1",
+   "exa-highlights": "1"
   }
  },
  "242": {
@@ -1412,7 +1470,8 @@
    "tavily-advanced": "James Cameron directed the most films among the top 15 highest-grossing films.",
    "tavily-basic": "James Cameron directed the most films among the top 15 highest-grossing films.",
    "parallel-turbo": "James Cameron.",
-   "parallel-advanced": "James Cameron"
+   "parallel-advanced": "James Cameron",
+   "exa-highlights": "James Cameron"
   }
  },
  "243": {
@@ -1436,7 +1495,8 @@
    "linkup-standard": "Larry Gagosian, on behalf of an unnamed buyer.",
    "exa-search": "RIEN",
    "tavily-basic": "Larry Gagosian.",
-   "serpdive-krill": "Larry Gagosian"
+   "serpdive-krill": "Larry Gagosian",
+   "exa-highlights": "Larry Gagosian, though he did not reveal on whose behalf he bought it."
   }
  },
  "394": {
@@ -1460,7 +1520,8 @@
    "tavily-advanced": "The Seattle Seahawks won the most recent Super Bowl.",
    "firecrawl-search": "Seattle Seahawks won Super Bowl LX.",
    "linkup-standard": "Seattle Seahawks",
-   "serpdive-krill": "The Seattle Seahawks won the most recent Super Bowl."
+   "serpdive-krill": "The Seattle Seahawks won the most recent Super Bowl.",
+   "exa-highlights": "The Seattle Seahawks won Super Bowl LX, defeating the New England Patriots 29–13."
   }
  },
  "395": {
@@ -1484,7 +1545,8 @@
    "firecrawl-search": "Sydney, Australia, with satellite meetings in Paris and Atlanta.",
    "tavily-basic": "Sydney, with satellite events in Atlanta and Paris.",
    "parallel-advanced": "Sydney, Australia; satellite conferences in Atlanta and Paris.",
-   "parallel-turbo": "San Diego and Mexico City."
+   "parallel-turbo": "San Diego and Mexico City.",
+   "exa-highlights": "Sydney, Australia; satellite events in Atlanta, Georgia, and Paris, France."
   }
  },
  "396": {
@@ -1508,7 +1570,8 @@
    "firecrawl-search": "April 9–11 and April 16–18, 2027.",
    "tavily-basic": "April 10–12 and April 17–19, 2026.",
    "exa-search": "April 10–12 and April 17–19, 2026.",
-   "serpdive-mako": "April 10–12 and April 17–19, 2026."
+   "serpdive-mako": "April 10–12 and April 17–19, 2026.",
+   "exa-highlights": "April 10–12 and 17–19, 2026"
   }
  },
  "398": {
@@ -1532,7 +1595,8 @@
    "serpdive-krill": "Passover started at sundown on Wednesday, April 1, 2026.",
    "tavily-basic": "Passover started at sundown Wednesday, April 1, 2026.",
    "firecrawl-search": "Passover started at sundown Wednesday, April 1, 2026.",
-   "linkup-standard": "Passover started at sundown on April 1, 2026."
+   "linkup-standard": "Passover started at sundown on April 1, 2026.",
+   "exa-highlights": "Passover began at sundown on Wednesday, April 1, 2026."
   }
  },
  "399": {
@@ -1556,7 +1620,8 @@
    "parallel-basic": "Aryna Sabalenka and Amanda Anisimova.",
    "exa-search": "Aryna Sabalenka and Amanda Anisimova",
    "parallel-advanced": "Aryna Sabalenka and Jessica Pegula.",
-   "brave-search": "Aryna Sabalenka and Amanda Anisimova."
+   "brave-search": "Aryna Sabalenka and Amanda Anisimova.",
+   "exa-highlights": "Aryna Sabalenka and Amanda Anisimova"
   }
  },
  "402": {
@@ -1580,7 +1645,8 @@
    "exa-search": "Sunday, June 21, 2026",
    "tavily-basic": "Father’s Day is Sunday, June 21, 2026.",
    "serpdive-krill": "Sunday, June 21, 2026.",
-   "parallel-advanced": "Sunday, June 21, 2026."
+   "parallel-advanced": "Sunday, June 21, 2026.",
+   "exa-highlights": "Sunday, June 21, 2026."
   }
  },
  "404": {
@@ -1604,7 +1670,8 @@
    "you-web": "NBC",
    "tavily-advanced": "NBC",
    "serpdive-moby": "NBC",
-   "firecrawl-search": "NBC"
+   "firecrawl-search": "NBC",
+   "exa-highlights": "NBC"
   }
  },
  "406": {
@@ -1628,7 +1695,8 @@
    "serpdive-moby": "2026 corresponds to Berber year 2976.",
    "linkup-standard": "2976",
    "you-web": "2976",
-   "firecrawl-search": "2976"
+   "firecrawl-search": "2976",
+   "exa-highlights": "The present year, 2026, corresponds to Berber year 2976."
   }
  },
  "407": {
@@ -1652,7 +1720,8 @@
    "parallel-turbo": "Ramadan was February 18–March 19, 2026; India began observing it February 19.",
    "tavily-basic": "Ramadan was observed from March 10 to April 9, 2024.",
    "you-web": "Ramadan was February 17–March 18, 2026, with local variations by moon sighting.",
-   "tavily-advanced": "February 17–March 18, 2026; some reports extend Ramadan through March 19."
+   "tavily-advanced": "February 17–March 18, 2026; some reports extend Ramadan through March 19.",
+   "exa-highlights": "Ramadan 2026 began February 18–19 and ended March 18–19."
   }
  },
  "409": {
@@ -1676,7 +1745,8 @@
    "parallel-basic": "Monday, September 7, 2026",
    "serpdive-krill": "Monday, September 7, 2026",
    "parallel-turbo": "Monday, September 7, 2026.",
-   "linkup-standard": "Monday, September 7, 2026"
+   "linkup-standard": "Monday, September 7, 2026",
+   "exa-highlights": "Monday, September 7, 2026."
   }
  },
  "410": {
@@ -1700,7 +1770,8 @@
    "serpdive-moby": "Levi’s Stadium in Santa Clara, California.",
    "tavily-basic": "Levi’s Stadium in Santa Clara, California.",
    "parallel-basic": "Levi’s Stadium in Santa Clara, California.",
-   "serpdive-mako": "Levi’s Stadium in Santa Clara, California."
+   "serpdive-mako": "Levi’s Stadium in Santa Clara, California.",
+   "exa-highlights": "Levi’s Stadium in Santa Clara, California"
   }
  },
  "412": {
@@ -1724,7 +1795,8 @@
    "tavily-advanced": "KPop Demon Hunters (2025)",
    "linkup-standard": "KPop Demon Hunters",
    "you-web": "KPop Demon Hunters",
-   "parallel-advanced": "KPop Demon Hunters"
+   "parallel-advanced": "KPop Demon Hunters",
+   "exa-highlights": "KPop Demon Hunters"
   }
  },
  "413": {
@@ -1748,7 +1820,8 @@
    "tavily-advanced": "One Battle After Another",
    "serpdive-krill": "One Battle After Another",
    "serpdive-moby": "One Battle After Another",
-   "parallel-advanced": "One Battle After Another"
+   "parallel-advanced": "One Battle After Another",
+   "exa-highlights": "One Battle After Another"
   }
  },
  "415": {
@@ -1772,7 +1845,8 @@
    "exa-search": "Other Worlds Than These",
    "parallel-advanced": "Never Flinch",
    "serpdive-mako": "Other Worlds Than These",
-   "parallel-basic": "Never Flinch"
+   "parallel-basic": "Never Flinch",
+   "exa-highlights": "Other Worlds Than These"
   }
  },
  "418": {
@@ -1796,7 +1870,8 @@
    "serpdive-mako": "July 14, 2026.",
    "parallel-turbo": "RIEN",
    "serpdive-moby": "July 14, 2026",
-   "parallel-basic": "July 14, 2026"
+   "parallel-basic": "July 14, 2026",
+   "exa-highlights": "July 14, 2026"
   }
  },
  "424": {
@@ -1820,7 +1895,8 @@
    "tavily-advanced": "Android 17",
    "tavily-basic": "Android 17",
    "serpdive-moby": "Android 17",
-   "linkup-standard": "RIEN"
+   "linkup-standard": "RIEN",
+   "exa-highlights": "Android 17"
   }
  },
  "434": {
@@ -1844,7 +1920,8 @@
    "tavily-basic": "Zootopia 2",
    "exa-search": "Zootopia 2",
    "serpdive-krill": "Zootopia 2",
-   "serpdive-moby": "Zootopia 2"
+   "serpdive-moby": "Zootopia 2",
+   "exa-highlights": "Zootopia 2"
   }
  },
  "435": {
@@ -1868,7 +1945,8 @@
    "tavily-basic": "Clair Obscur: Expedition 33",
    "tavily-advanced": "Clair Obscur: Expedition 33",
    "exa-search": "Clair Obscur: Expedition 33",
-   "parallel-turbo": "Clair Obscur: Expedition 33"
+   "parallel-turbo": "Clair Obscur: Expedition 33",
+   "exa-highlights": "Clair Obscur: Expedition 33"
   }
  },
  "436": {
@@ -1892,7 +1970,8 @@
    "tavily-basic": "The latest NFL season is scheduled to begin September 9, 2026.",
    "parallel-turbo": "September 9, 2026.",
    "parallel-basic": "September 9, 2026.",
-   "serpdive-mako": "September 9, 2026."
+   "serpdive-mako": "September 9, 2026.",
+   "exa-highlights": "September 9, 2026."
   }
  },
  "437": {
@@ -1916,7 +1995,8 @@
    "serpdive-mako": "1,267 undergraduate students (fall 2025).",
    "firecrawl-search": "1,267 undergraduate students",
    "linkup-standard": "1,346 undergraduate students enrolled in fall 2024.",
-   "parallel-advanced": "1,267 undergraduate students enrolled in fall 2025."
+   "parallel-advanced": "1,267 undergraduate students enrolled in fall 2025.",
+   "exa-highlights": "NOTHING"
   }
  },
  "438": {
@@ -1940,7 +2020,8 @@
    "parallel-basic": "Ousmane Dembélé won the latest Ballon d’Or.",
    "tavily-basic": "Ousmane Dembélé.",
    "linkup-standard": "Ousmane Dembélé",
-   "serpdive-mako": "Ousmane Dembélé won the latest Ballon d’Or in 2025."
+   "serpdive-mako": "Ousmane Dembélé won the latest Ballon d’Or in 2025.",
+   "exa-highlights": "Ousmane Dembélé won the latest Ballon d’Or."
   }
  },
  "439": {
@@ -1964,7 +2045,8 @@
    "you-web": "The Pitt",
    "tavily-advanced": "The Pitt",
    "parallel-basic": "The Pitt",
-   "firecrawl-search": "The Pitt"
+   "firecrawl-search": "The Pitt",
+   "exa-highlights": "The Pitt"
   }
  },
  "440": {
@@ -1988,7 +2070,8 @@
    "you-web": "Montreal, Canada, with a satellite event in Guangzhou, China.",
    "serpdive-krill": "Bremen, Germany.",
    "exa-search": "Montreal, Canada, and Guangzhou, China.",
-   "parallel-advanced": "Guangzhou, China."
+   "parallel-advanced": "Guangzhou, China.",
+   "exa-highlights": "Montreal, Canada, and Guangzhou, China."
   }
  },
  "444": {
@@ -2012,7 +2095,8 @@
    "parallel-basic": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
    "parallel-turbo": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
    "brave-search": "The Buffalo Hunter Hunter by Stephen Graham Jones",
-   "you-web": "The Buffalo Hunter Hunter by Stephen Graham Jones."
+   "you-web": "The Buffalo Hunter Hunter by Stephen Graham Jones.",
+   "exa-highlights": "The Buffalo Hunter Hunter by Stephen Graham Jones"
   }
  },
  "451": {
@@ -2036,7 +2120,8 @@
    "serpdive-krill": "Aryna Sabalenka",
    "brave-search": "Aryna Sabalenka",
    "parallel-basic": "Aryna Sabalenka",
-   "parallel-turbo": "Aryna Sabalenka"
+   "parallel-turbo": "Aryna Sabalenka",
+   "exa-highlights": "Aryna Sabalenka"
   }
  },
  "455": {
@@ -2060,7 +2145,8 @@
    "exa-search": "Ohio",
    "parallel-turbo": "Connecticut",
    "parallel-advanced": "Ohio",
-   "serpdive-mako": "Connecticut"
+   "serpdive-mako": "Connecticut",
+   "exa-highlights": "Ohio"
   }
  },
  "459": {
@@ -2084,7 +2170,8 @@
    "parallel-advanced": "0 goals",
    "tavily-basic": "Bukayo Saka scored 0 goals.",
    "serpdive-mako": "Bukayo Saka scored 0 goals.",
-   "linkup-standard": "Bukayo Saka scored 0 goals."
+   "linkup-standard": "Bukayo Saka scored 0 goals.",
+   "exa-highlights": "One goal"
   }
  },
  "474": {
@@ -2108,7 +2195,8 @@
    "serpdive-krill": "Drift of a Lifetime (2025)",
    "tavily-basic": "F1 The Movie (2025)",
    "serpdive-mako": "Brad Pitt’s most recent movie as an actor is *F1*.",
-   "serpdive-moby": "F1 (2025)"
+   "serpdive-moby": "F1 (2025)",
+   "exa-highlights": "F1 (2025)"
   }
  },
  "477": {
@@ -2132,7 +2220,8 @@
    "tavily-basic": "Yes, Tesla shares are priced above $250, at approximately $325.54.",
    "parallel-turbo": "Yes, Tesla’s stock price is above $250 per share.",
    "parallel-advanced": "Yes, Tesla’s stock price is above $250 per share.",
-   "you-web": "Yes, Tesla’s stock price is above $250 per share."
+   "you-web": "Yes, Tesla’s stock price is above $250 per share.",
+   "exa-highlights": "Yes, Tesla’s stock price is above $250 a share."
   }
  },
  "478": {
@@ -2156,7 +2245,8 @@
    "parallel-basic": "116 years old.",
    "exa-search": "116 years old.",
    "parallel-turbo": "116 years and 340 days old.",
-   "serpdive-mako": "116 years and 340 days old."
+   "serpdive-mako": "116 years and 340 days old.",
+   "exa-highlights": "116 years old."
   }
  },
  "479": {
@@ -2180,7 +2270,8 @@
    "tavily-basic": "Thailand",
    "parallel-basic": "Thailand",
    "exa-search": "Thailand",
-   "firecrawl-search": "RIEN"
+   "firecrawl-search": "RIEN",
+   "exa-highlights": "Thailand"
   }
  },
  "488": {
@@ -2204,7 +2295,8 @@
    "linkup-standard": "83 years old (Kenichi Horie).",
    "exa-search": "RIEN",
    "tavily-basic": "83 years old",
-   "serpdive-moby": "Kenichi Horie is currently 87 years old."
+   "serpdive-moby": "Kenichi Horie is currently 87 years old.",
+   "exa-highlights": "83 years old."
   }
  },
  "493": {
@@ -2228,7 +2320,8 @@
    "parallel-basic": "RIEN",
    "you-web": "The Carolina Hurricanes",
    "firecrawl-search": "The Carolina Hurricanes",
-   "serpdive-moby": "The Carolina Hurricanes"
+   "serpdive-moby": "The Carolina Hurricanes",
+   "exa-highlights": "Carolina Hurricanes"
   }
  },
  "496": {
@@ -2252,7 +2345,8 @@
    "linkup-standard": "Yes, one US dollar is worth more than 82 Indian rupees.",
    "you-web": "Yes, one US dollar is worth more than 82 Indian rupees.",
    "brave-search": "Yes. One US dollar is worth more than 82 Indian rupees.",
-   "tavily-basic": "Yes, one US dollar is worth more than 82 Indian rupees."
+   "tavily-basic": "Yes, one US dollar is worth more than 82 Indian rupees.",
+   "exa-highlights": "Yes, one US dollar is worth more than 82 Indian rupees."
   }
  },
  "498": {
@@ -2276,7 +2370,8 @@
    "parallel-advanced": "Bella Poarch",
    "tavily-advanced": "Bella Poarch",
    "tavily-basic": "Bella Poarch",
-   "parallel-basic": "RIEN"
+   "parallel-basic": "RIEN",
+   "exa-highlights": "Leah Halton"
   }
  },
  "546": {
@@ -2300,7 +2395,8 @@
    "you-web": "RIEN",
    "parallel-turbo": "$410.6 million for Pirates of the Caribbean: On Stranger Tides.",
    "serpdive-moby": "Approximately $658.8 million.",
-   "exa-search": "Jurassic World: Dominion cost $658.8 million to make."
+   "exa-search": "Jurassic World: Dominion cost $658.8 million to make.",
+   "exa-highlights": "Jurassic World: Dominion cost approximately $658.8 million."
   }
  },
  "578": {
@@ -2324,7 +2420,8 @@
    "brave-search": "About 8.3 billion people.",
    "parallel-basic": "Approximately 8 billion people.",
    "tavily-basic": "Approximately 8.3 billion people.",
-   "you-web": "Approximately 8.3 billion people."
+   "you-web": "Approximately 8.3 billion people.",
+   "exa-highlights": "Approximately 8.3 billion people."
   }
  },
  "581": {
@@ -2348,7 +2445,8 @@
    "firecrawl-search": "Saturday, February 6, 2027.",
    "parallel-advanced": "Saturday, February 6, 2027.",
    "parallel-basic": "February 6, 2027.",
-   "parallel-turbo": "February 6, 2027."
+   "parallel-turbo": "February 6, 2027.",
+   "exa-highlights": "February 6, 2027"
   }
  },
  "586": {
@@ -2372,7 +2470,8 @@
    "you-web": "Phantom Island (released June 13, 2025)",
    "serpdive-krill": "Phantom Island",
    "tavily-basic": "Phantom Island",
-   "parallel-basic": "Phantom Island"
+   "parallel-basic": "Phantom Island",
+   "exa-highlights": "Phantom Island"
   }
  },
  "598": {
@@ -2396,7 +2495,8 @@
    "parallel-turbo": "September 1998",
    "parallel-advanced": "RIEN",
    "serpdive-mako": "Tadej Pogačar was born in September 1998.",
-   "parallel-basic": "RIEN"
+   "parallel-basic": "RIEN",
+   "exa-highlights": "21 September 1998"
   }
  }
 }

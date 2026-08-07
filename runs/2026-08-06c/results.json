@@ -1,6 +1,6 @@
 {
   "n": 100,
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "dataset": "FreshQA (Google), version 2026-04-21 — https://github.com/freshllms/freshqa",
   "seed": 3523752078,
   "gold": "consensus of the field, established on the day of the run",
@@ -97,6 +97,21 @@
       "correct_rate": 87,
       "correct_rate_april": 79,
       "usd_per_correct": 0.02694
+    },
+    {
+      "arm": "exa-highlights",
+      "vendor": "exa",
+      "api_usd_per_1k": 7,
+      "api_basis": "payg",
+      "tokens_per_query": 6952,
+      "tokens_per_query_reader": 4261,
+      "reprice_ratio": 1.6314548058293319,
+      "llm_usd_per_1k": 20.856,
+      "total_usd_per_1k": 27.856,
+      "correct": 92,
+      "correct_rate": 92,
+      "correct_rate_april": 77,
+      "usd_per_correct": 0.030278
     },
     {
       "arm": "you-web",
