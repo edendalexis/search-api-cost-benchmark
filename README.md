@@ -43,6 +43,17 @@ Tokens are counted on `anthropic/claude-sonnet-5` at its $3/MTok list rate.
 
 Every number above is recomputable from `runs/2026-08-06c/`, offline, without a key.
 
+**Read the correct column as a paired comparison, not as a ranking.** Every arm answered
+the same questions, so the gap between two of them is settled by the questions where they
+disagree, not by subtracting two percentages. On this run **22 of the 91 pairs separate**
+at p < 0.05, and the ones that do not are as informative as the ones that do: nothing in
+the expensive half separates from `serpdive-mako` at $12.67. The full pairwise table is in
+[`runs/2026-08-06c/paired.md`](./runs/2026-08-06c/paired.md), and `bin/paired.mjs`
+regenerates it without calling any model.
+
+Not separated is not equal. At n=100 the test cannot settle small gaps, only say which
+gaps the data supports.
+
 ## The providers
 
 Nothing here replaces going and looking for yourself. Every vendor measured, with its
